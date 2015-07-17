@@ -1,0 +1,41 @@
+.btn-customdark {background-color: transparent;color: white;border: 3px;border-color: transparent;font-size: 2em;border-radius:40px;padding: 20px;}
+.btn-customdark:hover,.btn-customdark:active,.btn-customdark:focus {color: gold;background-color: transparent;}
+.fontchange{font-family: 'Pacifico', cursive;}
+.fontup{font-size:3em;}
+.fontchange2{font-family: 'Arimo', sans-serif;}
+.fontcolor{color:white;}
+.backgroundtop{background-image: url("/Images/power.jpg");background-size: cover;background-repeat: repeat-y;background-position: top;}
+.jumbotron{text-align: center;background-color: rgba(30,144,255,0.3)}
+.whiteback{#background-color: rgba(255,255,255,0.3);color: white;font-size: 2em;text-align: center;font-family: 'Fjalla One', sans-serif;}
+.left{float: left;}
+ul {list-style: none;text-align: center;color: white;}
+.fontfe{color: white;font-size: 3em;text-align: center;font-family: 'Fjalla One', sans-serif;}
+.addbul{list-style: none;}
+.liz{}
+.liz:hover{color:gold;cursor: default;}
+.backgroundtop2{background-image: url("/Images/power.jpg");background-size: cover;background-repeat: ;}
+.h1about{margin-bottom: 450px;font-family: 'Pacifico', cursive;color:white;margin-top: 300px;text-align: center;}
+.h1about:hover{color: gold;}
+.tank{height: 40%;width: 40%;}
+
+.backgroundtop3{background-image: url("/Images/blue.jpg");background-size: cover;background-repeat: repeat-y;#background-position: top;}
+.backgroundtop4{background-image: url("/Images/green.jpg");background-size: cover;background-repeat: repeat-y;#background-position: top;}
+li > a {text-decoration: none;color: white;}
+li > a:hover{color:gold;cursor: default;text-decoration: none;}
+
+
+
+.blue{background-color:rgba(255,255,255,0.3);}
+u:hover {color:gold;cursor: default;}
+.right{float: right;}
+.marginde{margin-right: 30px;}
+
+
+
+
+
+@media (max-width: 1050px){ .backgroundtop {background-image:url("/Images/power.jpg");}}
+@media (max-width: 1050px){ .btn-customdark {width=100%};}}
+
+
+
