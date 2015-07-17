@@ -14,8 +14,8 @@ ul {list-style: none;text-align: center;color: white;}
 .liz{}
 .liz:hover{color:gold;cursor: default;}
 .backgroundtop2{background-image: url("/Images/power.jpg");background-size: cover;background-repeat: ;}
-.h1about{margin-bottom: 450px;font-family: 'Pacifico', cursive;color:white;margin-top: 300px;text-align: center;}
-.h1about:hover{color: gold;}
+.h1about2{margin-bottom: 450px;font-family: 'Pacifico', cursive;color:white;margin-top: 300px;text-align: center;}
+.h1about2:hover{color: gold;}
 .tank{height: 40%;width: 40%;}
 
 .backgroundtop3{background-image: url("/Images/blue.jpg");background-size: cover;background-repeat: repeat-y;#background-position: top;}
