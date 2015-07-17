@@ -24,6 +24,8 @@ ul {list-style: none;text-align: center;color: white;}
 .backgroundtop5{background-image: url("/Images/grey.jpg");background-size: cover;background-repeat: repeat-y;#background-position: top;}
 li > a {text-decoration: none;color: white;}
 li > a:hover{color:gold;cursor: default;text-decoration: none;}
+a {text-decoration: none;color: white;}
+a:hover{color:gold;cursor: default;text-decoration: none;}
 
 
 
