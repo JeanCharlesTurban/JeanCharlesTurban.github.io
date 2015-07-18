@@ -18,10 +18,11 @@ ul {list-style: none;text-align: center;color: white;}
 .h1about2:hover{color: gold;}
 .tank{height: 40%;width: 40%;}
 .imgcir{border: 2px;border-color: black;border-radius: 900px;margin: 50px;}
+.cirbor{border-radius: 900px;border: 50px;border-color: black;}
 
 .backgroundtop3{background-image: url("/Images/blue.jpg");background-size: cover;background-repeat: repeat-y;#background-position: top;}
-.backgroundtop4{background-image: url("/Images/green.jpg");background-size: cover;background-repeat: repeat-y;#background-position: top;}
-.backgroundtop5{background-image: url("/Images/grey.jpg");background-size: cover;background-repeat: repeat-y;#background-position: top;}
+.backgroundtop4{background-image: url("/Images/blue2.jpg");background-size: cover;background-repeat: repeat-y;#background-position: top;}
+.backgroundtop5{background-image: url("/Images/blue3.jpg");background-size: cover;background-repeat: repeat-y;#background-position: top;}
 li > a {text-decoration: none;color: white;}
 li > a:hover{color:gold;cursor: default;text-decoration: none;}
 a {text-decoration: none;color: white;}
