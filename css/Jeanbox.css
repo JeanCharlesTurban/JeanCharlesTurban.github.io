@@ -1,0 +1,27 @@
+.backgroundtop {background-image: url(/Images/snow.jpg);}
+.backgroundtop2 {background-image: url(/Images/blue.jpg);}
+.backgroundtop3 {background-image: url(/Images/blue2.jpg);}
+
+.btn-customdark {background-color: transparent;color: black;font-size: 1.5em;padding: 10px;text-align: center;font-family: 'Oswald', sans-serif;border: 5px solid #000;margin-top: 10px;margin: 10px;}
+.btn-customdark:hover,.btn-customdark:active,.btn-customdark:focus {background-color: rgba(0,0,0,0.7);text-decoration: none;color: white;}
+
+.btn-customdark4 {background-color: transparent;color: white;font-size: 1.5em;text-align: center;font-family: 'Oswald', sans-serif;}
+.btn-customdark4:hover,.btn-customdark4:active,.btn-customdark4:focus {text-decoration: none;color: black;}
+
+.btn-customdark3 {background-color: transparent;color: black;font-size: 1.5em;padding: 10px;text-align: center;font-family: 'Oswald', sans-serif;border: 5px solid #000;margin-top: 10px;}
+.btn-customdark3:hover,.btn-customdark3:active,.btn-customdark3:focus {background-color: rgba(0,0,0,0.7);text-decoration: none;color: white;}
+
+.btn-customdark2 {background-color: transparent;color: black;font-size: 2em;padding: 10px;text-align: center;font-family: 'Oswald', sans-serif;border: 5px solid #000}
+.btn-customdark2:hover,.btn-customdark2:active,.btn-customdark2:focus {color: white;background-color: rgba(0,0,0,0.7);text-decoration: none;}
+
+.centerthis{margin-top:  300px;margin-bottom: 300px;}
+
+.fontupwhite{color: white;font-size: 3em;text-align: center;text-decoration: underline;font-family: 'Oswald', sans-serif;text-align: center;}
+.fontupwhite2{color: white;font-size: 1.5em;text-align: center;font-family: 'Oswald', sans-serif;}
+
+ul {list-style: none;}
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600);	
+
+
+
