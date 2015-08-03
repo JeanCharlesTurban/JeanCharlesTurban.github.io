@@ -1,27 +1,127 @@
 .backgroundtop {background-image: url(/Images/snow.jpg);}
 .backgroundtop2 {background-image: url(/Images/blue.jpg);}
 .backgroundtop3 {background-image: url(/Images/blue2.jpg);}
-
-.btn-customdark {background-color: transparent;color: black;font-size: 1.5em;padding: 10px;text-align: center;font-family: 'Oswald', sans-serif;border: 5px solid #000;margin-top: 10px;margin: 10px;}
-.btn-customdark:hover,.btn-customdark:active,.btn-customdark:focus {background-color: rgba(0,0,0,0.7);text-decoration: none;color: white;}
-
-.btn-customdark4 {background-color: transparent;color: white;font-size: 1.5em;text-align: center;font-family: 'Oswald', sans-serif;}
-.btn-customdark4:hover,.btn-customdark4:active,.btn-customdark4:focus {text-decoration: none;color: black;}
-
-.btn-customdark3 {background-color: transparent;color: black;font-size: 1.5em;padding: 10px;text-align: center;font-family: 'Oswald', sans-serif;border: 5px solid #000;margin-top: 10px;}
-.btn-customdark3:hover,.btn-customdark3:active,.btn-customdark3:focus {background-color: rgba(0,0,0,0.7);text-decoration: none;color: white;}
-
-.btn-customdark2 {background-color: transparent;color: black;font-size: 2em;padding: 10px;text-align: center;font-family: 'Oswald', sans-serif;border: 5px solid #000}
-.btn-customdark2:hover,.btn-customdark2:active,.btn-customdark2:focus {color: white;background-color: rgba(0,0,0,0.7);text-decoration: none;}
-
-.centerthis{margin-top:  300px;margin-bottom: 300px;}
-
 .fontupwhite{color: white;font-size: 3em;text-align: center;text-decoration: underline;font-family: 'Oswald', sans-serif;text-align: center;}
 .fontupwhite2{color: white;font-size: 1.5em;text-align: center;font-family: 'Oswald', sans-serif;}
-
 ul {list-style: none;}
+.box {width: 100%;height: 700px;}
+a, a:hover, a:link, a:active {text-decoration: none;}
+
+
+
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600);	
+
+
+* {
+  margin:0;
+  padding:0;
+}
+
+.e{
+  position: absolute;
+  left:50%;
+  top:10%;
+  transform:translate(-50%,-50%);
+  
+}
+.h12{
+  font-size:3em;
+  font-weight:bold;
+  font-family: 'Montserrat', sans-serif;
+  text-align:center;
+  color:black;
+  letter-spacing:0px;
+  transition:1s;
+  -webkit-transition:1s;
+  -ms-transition:1s;
+  position: relative;
+  padding:10px;
+  border: 5px solid black;
+  background-color: transparent;
+    text-align: center;
+  z-index: 1;
+  
+ 
+}
+
+.h12:before,
+.h12:after{
+  content:"";
+  position: absolute;
+  height: 7px;
+  width: 0px;
+  background:dodgerblue;
+  transition:300ms;
+  -webkit-transition:1s;
+  -ms-transition:1s;
+  opacity:0.3;
+  margin-top: 5px;
+  margin-bottom: 5px;
+    #margin: 5px;
+}
+
+.h12:before{
+  bottom:0;
+  left:0;
+}
+
+.h12:after{
+  top:0;
+  left:0;
+}
+
+.h12:hover{
+  letter-spacing:30px;
+  background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+
+.h12:hover:before,
+.h12:hover:after{
+   width: 100%;
+    opacity:1;
+
+}
+.h12:hover ~ h2{
+  opacity:0;
+}
+
+#snow{
+	background: none;
+	font-family: Androgyne;
+	background-image: url('http://www.wearewebstars.dk/codepen/img/s1.png'), url('http://www.wearewebstars.dk/codepen/img//s2.png'), url('http://www.wearewebstars.dk/codepen/img//s3.png');
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index:0;
+	-webkit-animation: snow 10s linear infinite;
+	-moz-animation: snow 10s linear infinite;
+	-ms-animation: snow 10s linear infinite;
+	animation: snow 10s linear infinite;
+}
+@keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+}
+@-moz-keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 400px 1000px, 200px 400px, 100px 300px;}
+}
+@-webkit-keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+}
+@-ms-keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+}	
 
 
 
