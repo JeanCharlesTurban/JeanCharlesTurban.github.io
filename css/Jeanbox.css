@@ -1,14 +1,23 @@
 .backgroundtop {background-image: url(/Images/snow.jpg);height: 100%}
 .backgroundtop2 {background-image: url(/Images/blue.jpg);}
-.backgroundtop3 {background-image: url(/Images/blue2.jpg);}
+.backgroundtop3 {background-image: url(/Images/blue2.jpg);background-repeat: repeat;background-size: cover;}
 .fontupwhite{color: white;font-size: 3em;text-align: center;text-decoration: underline;font-family: 'Oswald', sans-serif;text-align: center;}
 .fontupwhite2{color: white;font-size: 1.5em;text-align: center;font-family: 'Oswald', sans-serif;}
 ul {list-style: none;}
-
-a, a:hover, a:link, a:active {text-decoration: none;}
-
-
-
+.intro{background-color: rgba(0,0,0,0.5);color: white;border: 7px solid transparent;transition: 1s;letter-spacing: 0px;font-size: 3em;border-radius: 0px;padding: 10px;}
+.intro:hover{border-top: 7px solid dodgerblue;border-bottom: 7px solid dodgerblue;letter-spacing: 7px;text-decoration: none;}
+a {align-content: center;}
+h1{text-align: center;}
+.scrollbtn{font-size: 7em;color: black;}
+.scrollbtn:hover{color: dodgerblue;}
+.infobox{color: white;margin-top: 5%;#font-size: 7em;text-align: center;margin-bottom: 5%;}
+.white {color: white;text-align: center;}
+.enlarge{font-size: 7em;}
+.whitehr {background-color: transparent;height: 2px;border: white 0px solid;}
+@media (max-width: 1050px){ .whitehr {background-color: white;}}
+.portal{color: white;}
+.portal:hover{color: dodgerblue;text-decoration: none;}
+.enlarge2{font-size: 1.5em;}
 
 
 #snow{
