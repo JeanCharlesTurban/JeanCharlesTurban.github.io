@@ -1,60 +1,36 @@
-.backgroundtop {background-image: url(/Images/snow.jpg);height: 100%}
-.backgroundtop2 {background-image: url(/Images/blue.jpg);}
-.backgroundtop3 {background-image: url(/Images/blue2.jpg);background-repeat: repeat;background-size: cover;}
+.backgroundtop {background-image: url(/Images/beach.00_jpg_srz);height: 100%;background-size: cover;background-position: top}
+.backgroundtop2 {background-color:white;}
+.backgroundtop3 {background-color: #1c1c1c;height: 200px;}
+.backgroundtop4 {background-color:dodgerblue;background-repeat: repeat;background-size: cover;}
 .fontupwhite{color: white;font-size: 3em;text-align: center;text-decoration: underline;font-family: 'Oswald', sans-serif;text-align: center;}
 .fontupwhite2{color: white;font-size: 1.5em;text-align: center;font-family: 'Oswald', sans-serif;}
+.fontup2{font-size: 1.5em;font-family: 'Oswald', sans-serif;}
 ul {list-style: none;}
-.intro{background-color: rgba(0,0,0,0.5);color: white;border: 7px solid transparent;transition: 1s;letter-spacing: 0px;font-size: 3em;border-radius: 0px;padding: 10px;}
-.intro:hover{border-top: 7px solid dodgerblue;border-bottom: 7px solid dodgerblue;letter-spacing: 7px;text-decoration: none;}
+.intro{#background-color: rgba(0,0,0,1);color: black;border: 7px solid transparent;transition: 1s;letter-spacing: 0px;font-size: 3em;border-radius: 0px;padding: 10px;margin-top: 20%; font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;}
+.intro:hover{border-top: 7px solid dodgerblue;border-bottom: 7px solid dodgerblue;letter-spacing: 5px;text-decoration: none;}
 a {align-content: center;}
 h1{text-align: center;}
-.scrollbtn{font-size: 7em;color: black;}
+.scrollbtn{font-size: 7em;color: black;margin-bottom: 10%;}
 .scrollbtn:hover{color: dodgerblue;}
-.infobox{color: white;margin-top: 5%;#font-size: 7em;text-align: center;margin-bottom: 5%;}
-.white {color: white;text-align: center;}
+.infobox{color: white;#margin-top: 5%;#font-size: 7em;text-align: center;;}
+.white {color: white;}
 .enlarge{font-size: 7em;}
 .whitehr {background-color: transparent;height: 2px;border: white 0px solid;}
 @media (max-width: 1050px){ .whitehr {background-color: white;}}
 .portal{color: white;}
 .portal:hover{color: dodgerblue;text-decoration: none;}
-.enlarge2{font-size: 1.5em;}
-
-
-#snow{
-	background: none;
-	font-family: Androgyne;
-	background-image: url('http://www.wearewebstars.dk/codepen/img/s1.png'), url('http://www.wearewebstars.dk/codepen/img//s2.png'), url('http://www.wearewebstars.dk/codepen/img//s3.png');
-	height: 100%;
-	left: 0;
-	position: absolute;
-	top: 0;
-	width: 100%;
-	z-index:0;
-	-webkit-animation: snow 10s linear infinite;
-	-moz-animation: snow 10s linear infinite;
-	-ms-animation: snow 10s linear infinite;
-	animation: snow 10s linear infinite;
-}
-@keyframes snow {
-  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
-  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
-  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
-}
-@-moz-keyframes snow {
-  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
-  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
-  100% {background-position: 400px 1000px, 200px 400px, 100px 300px;}
-}
-@-webkit-keyframes snow {
-  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
-  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
-  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
-}
-@-ms-keyframes snow {
-  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
-  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
-  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
-}	
-
-
-
+.enlarge2{font-size: 1.5em;##1c1c1c}
+.circle{border:px solid black;border-radius: 1000px;margin-top: 10%;}
+.blackhr {background-color: black;height: 2px;border: white 0px solid;}
+.top {margin-top: 5%;}
+.btm {margin-bottom: 5%;}
+.footer{height: 7%;font-family: 'Oswald', sans-serif;background-color:#1c1c1c;height: 10% }
+.cont{margin-top: 2%;margin-bottom: 2%;}
+.link{text-decoration: none;color: white;font-size: 2em;margin-left: 5px;margin-right: 5px;}
+.link:hover {color: dodgerblue;}
+.img2:hover{opacity: 0.7;}
+.email{color: white;text-decoration: none;font-size: 1.5em;}
+.email:hover {color: dodgerblue;text-decoration: none;}
+.gen{color: dodgerblue;text-decoration: none;}
+.gen:hover {color: black;text-decoration: none;}
+html {background-color: #1c1c1c;}
