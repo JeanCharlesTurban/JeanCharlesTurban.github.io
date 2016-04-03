@@ -2,11 +2,12 @@
 .backgroundtop2 {background-color:white;}
 .backgroundtop3 {background-color: #1c1c1c;height: 200px;}
 .backgroundtop4 {background-color:dodgerblue;background-repeat: repeat;background-size: cover;}
+.backgroundtop5 {background-color:#1c1c1c;background-repeat: repeat;background-size: cover;}
 .fontupwhite{color: white;font-size: 3em;text-align: center;text-decoration: underline;font-family: 'Oswald', sans-serif;text-align: center;}
 .fontupwhite2{color: white;font-size: 1.5em;text-align: center;font-family: 'Oswald', sans-serif;}
 .fontup2{font-size: 1.5em;font-family: 'Oswald', sans-serif;}
 ul {list-style: none;}
-.intro{#background-color: rgba(0,0,0,1);color: black;border: 7px solid transparent;transition: 1s;letter-spacing: 0px;font-size: 3em;border-radius: 0px;padding: 10px;margin-top: 20%; font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;}
+.intro{#background-color: rgba(0,0,0,1);color: black;border: 7px solid transparent;transition: 1s;letter-spacing: 0px;font-size: 3em;border-radius: 0px;padding: 10px;margin-top: 20%; font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;border-top: 7px solid dodgerblue;border-bottom: 7px solid dodgerblue;}
 .intro:hover{border-top: 7px solid dodgerblue;border-bottom: 7px solid dodgerblue;letter-spacing: 5px;text-decoration: none;}
 a {align-content: center;}
 h1{text-align: center;}
@@ -34,3 +35,8 @@ h1{text-align: center;}
 .gen{color: dodgerblue;text-decoration: none;}
 .gen:hover {color: black;text-decoration: none;}
 html {background-color: #1c1c1c;}
+.color1{background-color: limegreen;}
+.color2{background-color: dodgerblue;}
+.color3{background-color: orange;}
+.sub-title{font-family: 'Oswald', sans-serif;color: white;text-align: center;}
+.desc{font-family: 'Oswald', sans-serif;color: white;}
