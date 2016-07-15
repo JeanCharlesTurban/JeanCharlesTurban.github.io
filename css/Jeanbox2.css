@@ -4,7 +4,7 @@
 .background0 {background-image: url(/Images/beach.00_jpg_srz);height: 100%; width: 100%; background-size: cover;}
 /**.background1 {background-image: url(/Images/forrest.jpg);height: 100%; background-size: cover;background-position: bottom;}**/
 .background2 {background-image: url(/Images/blueback.jpg); background-size: cover;}
-@media (max-width: 1050px){ .background2 {background-color: dodgerblue;}}
+
 html{width: 100%;height: 100%;background-color:#1c1c1c;}
 body{width: 100%;height: 100%}
 
