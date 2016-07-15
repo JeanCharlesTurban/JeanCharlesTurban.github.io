@@ -4,15 +4,8 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-body {
-    width: 100%;
-    height: 100%;
-}
-
-html {
-    width: 100%;
-    height: 100%;
-}
+body {width: 99%;height: 100%;}
+html {width: 100%;height: 100%;ba}
 
 @media(min-width:767px) {
     .navbar {
@@ -31,30 +24,17 @@ html {
 The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children 
 of those sections to manage the look and feel of the site. */
 
-.intro-section {
-    height: 100%;
-    padding-top: 150px;
-    text-align: center;
-    background: #fff;
-}
 
-.about-section {
-    height: 100%;
-    padding-top: 150px;
-    text-align: center;
-    background: #eee;
-}
+/* Simple Parallax CSS
+	Thanks to Drew Ryan
+	for the tutorial */
 
-.services-section {
-    height: 100%;
-    padding-top: 150px;
-    text-align: center;
-    background: #fff;
-}
+*{margin: 0;padding: 0;border: 0;}
+.uno{height: 100%;padding: 20% 0;}
 
-.contact-section {
-    height: 100%;
-    padding-top: 150px;
-    text-align: center;
-    background: #eee;
-}
+.dos{height: 100%;padding: 20% 0;}
+
+/*---START PARALLAX---*/
+.parallax{background: url("/Images/forrest.jpg")repeat fixed 100%;background-size: cover;}
+.parallax-inner{padding: 20% 50%;}
+/*---END PARALLAX---*/
