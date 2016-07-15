@@ -4,13 +4,13 @@
 .background0 {background-image: url(/Images/beach.00_jpg_srz);height: 100%; width: 100%; background-size: cover;}
 /**.background1 {background-image: url(/Images/forrest.jpg);height: 100%; background-size: cover;background-position: bottom;}**/
 .background2 {background-image: url(/Images/blueback.jpg); background-size: cover;}
-
-html{width: 100%;height: 100%;background-color:black;}
+@media (max-width: 1050px){ .background2 {background-color: dodgerblue;}}
+html{width: 100%;height: 100%;background-color:#1c1c1c;}
 body{width: 100%;height: 100%}
 
 *{margin: 0;padding: 0;border: 0;}
 .uno{height: 100%;#padding: 20% 0;}
-.dos{height: 100%;#padding: 20% 0;}
+.dos{#height: 100%;#padding: 20% 0;}
 
 /*---START PARALLAX---*/
 .parallax{background: url("/Images/forrest.jpg")repeat fixed 100%;background-size: cover;}
@@ -38,7 +38,7 @@ ul {list-style: none;font-family: 'Oswald', sans-serif;}
 .white{color: white;}
 .footer{height: 7%;font-family: 'Oswald', sans-serif;background-color:#1c1c1c;}
 .backgroundbttm {background-color: #1c1c1c;#height: 50px;}
-
+.inlist{font-size: .8em;}
 .fontupwhite{color: white;font-size: 3em;text-align: center;text-decoration: underline;font-family: 'Oswald', sans-serif;text-align: center;}
 .bttm{margin-bottom: 5%;}
 .top{margin-top: 5%;}
