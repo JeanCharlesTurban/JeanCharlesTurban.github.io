@@ -18,13 +18,14 @@ a:hover{text-decoration: none;}
 
 
 @media (max-width: 1050px){
-    .sc1{margin-top: 95%;}
+    .sc1{margin-top: 90%;}
     .navbutton{color: black;font-size: 2em;}
     .centertitle{margin-top: 0%;}
     .mainbackground{background-image: url(../Images/op1.jpg);}
     .centertitle {font-size: 5em;}
     .transparenttext{ background: url(../Images/op5.jpg);-webkit-background-clip: text;-webkit-text-fill-color: transparent;background-size: cover;}
-    
-
-
+    #contact {color: white;}
+}
+@media (max-width: 1930px){
+    .centertitle{margin-top: 3%;}
 }
