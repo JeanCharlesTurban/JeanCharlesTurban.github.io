@@ -1,11 +1,6 @@
 .mainbackground {background-image: url(../Images/blueback.jpg); height: 100%;width: 100%;background-size: cover;background-position: top;}
-html{width: 100%;height: 100%;background-color:#1c1c1c;}
-body{width: 100%;height: 100%}
-a{color: white;}
-a:hover{text-decoration: none;color: dodgerblue;}
-.font{font-family: 'Oswald', sans-serif;}
-.white{color:white;}
-#content{background-color: rgba(0,0,0,.5);}
-#backbutton{font-size: 5em;margin-left: 5%;color: white;}
-#backbutton:hover{color: dodgerblue;}
-p {font-size: 2em;}
+a{color: white;}a:hover{text-decoration: none;color: dodgerblue;}
+#content{background-color: rgba(0,0,0,.5);padding: 10px;}
+p {font-size: 1.5em;font-family: 'Slabo 27px', serif;}
+.circles{border-radius: 1000px;border: transparent solid 1px;background-color: orange;padding: 10px;font-size: 3em;padding-top: 45px;padding-bottom: 45px;}
+.top{margin-top: 5%;}

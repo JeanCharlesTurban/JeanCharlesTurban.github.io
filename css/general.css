@@ -1,0 +1,7 @@
+html{width: 100%;height: 100%;}
+body{width: 100%;height: 100%}
+a:hover{text-decoration: none;}
+.font{font-family: 'Oswald', sans-serif;}
+.white{color:white;}
+#backbutton{font-size: 5em;margin-left: 5%;color: white;}
+#backbutton:hover{color: dodgerblue;}

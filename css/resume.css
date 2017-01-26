@@ -1,21 +1,15 @@
 .mainbackground {background: url(/Images/op5.jpg)repeat fixed 100%;height: 100%;background-size: cover;background-position: top;}
-html{width: 100%;height: 100%;}
-body{width: 100%;height: 100%}
-a:hover{text-decoration: none;}
-
 .bttmmargin{margin-bottom: 10%;}
 
 #maintitle{font-size: 5em;}
-#backbutton{font-size: 5em;margin-left: 5%;color: white;}
-#backbutton:hover{color: dodgerblue;}
 
+ 
 .infobox{text-align: center;text-transform: uppercase;}
 .fontup{font-size: 2em;}
 .bluehover{color: white;}
 .bluehover:hover{color: skyblue;}
 
-.font{font-family: 'Oswald', sans-serif;}
-.white{color:white;}
+
 
 .full{width: 100%;float: left;}
 .pic{height: 100%;width: 50%;}
