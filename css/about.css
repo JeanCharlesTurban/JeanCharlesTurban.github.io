@@ -1,6 +1,7 @@
 .mainbackground {background-image: url(../Images/blueback.jpg); height: 100%;width: 100%;background-size: cover;background-position: top;}
-a{color: white;}a:hover{text-decoration: none;color: dodgerblue;}
+a{color: white;}a:hover{text-decoration: none}
 #content{background-color: rgba(0,0,0,.5);padding: 10px;}
 p {font-size: 1.5em;font-family: 'Slabo 27px', serif;}
 .circles{border-radius: 1000px;border: transparent solid 1px;background-color: orange;padding: 10px;font-size: 3em;padding-top: 45px;padding-bottom: 45px;}
 .top{margin-top: 5%;}
+.button{color: white;} .button:hover{color:deepskyblue;}
