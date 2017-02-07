@@ -2,8 +2,7 @@
 .bttmmargin{margin-bottom: 10%;}
 
 #maintitle{font-size: 5em;}
-
- 
+.scrollup{position: fixed;margin-top: 40%;color: white;font-size: 3em;margin-left: 95%;border: solid transparent 2px;border-radius: 100px;background-color: #1c1c1c;width: 50px;height: 50px;text-align: center;padding-left: 13px;}
 .infobox{text-align: center;text-transform: uppercase;}
 .fontup{font-size: 2em;}
 .bluehover{color: white;}
