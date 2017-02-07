@@ -1,0 +1,56 @@
+.mainbackground {background: url('https://www.walldevil.com/wallpapers/a84/bora-bora-tahiti-ocean-mountain-tree-bungalow-french-polynesia.jpg')repeat fixed 100%;height: 100%;background-size: cover;background-position: top;}
+.bttmmargin{margin-bottom: 10%;}
+
+#maintitle{font-size: 5em;}
+.scrollup{position: fixed;margin-top: 40%;color: white;font-size: 3em;margin-left: 95%;border: solid transparent 2px;border-radius: 100px;background-color: #1c1c1c;width: 50px;height: 50px;text-align: center;padding-left: 13px;}
+.infobox{text-align: center;text-transform: uppercase;}
+.fontup{font-size: 2em;}
+.bluehover{color: white;}
+.bluehover:hover{color: skyblue;}
+
+
+
+.full{width: 100%;float: left;}
+.pic{height: 100%;width: 50%;}
+.cont{height: 100%;width: 50%;} 
+.left{float: left;}
+.right{float: right;}
+.center{margin-top: 120px;margin-bottom: 120px;font-size: 6em;}
+
+.cont h1 {text-align: center;font-size: 5em;font-family: 'Oswald', sans-serif;text-transform: uppercase;margin-top: 10%;}
+.cont h3  {text-align: center;font-size: 3em;font-family: 'Oswald', sans-serif;line-height: 50px;}
+.cont h2 {text-align: center;font-family: 'Oswald', sans-serif;}
+.cont h4 {text-align: center;font-family: 'Oswald', sans-serif;line-height: 40px;text-transform: uppercase;font-size: 2em;}
+
+.topmargin{margin-top: 5%;}
+.topmargin2{margin-top: 3%;}
+
+hr {height: 1px;border: white 1px solid;background-color: white;width: 90%;}
+
+#mpsh{background-image: url('https://s-media-cache-ak0.pinimg.com/736x/e5/91/2d/e5912de84b6312f36713ce390e795731.jpg');background-size: cover;}
+#mpsh2{background-color: cadetblue;color: white;}
+
+#LCL{background-image: url('http://www.traveltourismblog.com/images/tahiti%20mountains.jpg');height: 100%; background-position: center;}
+#LCL2{background-color: dodgerblue;color: white;}
+
+#Corn{background-image:url('http://media.gettyimages.com/photos/tahiti-bora-bora-idyllic-tropical-beach-with-mountain-in-background-picture-id128018136');background-size: cover;background-position: left;}
+#Corn2{background-color: #b31b1b;color: white;}
+
+
+.bottom{height: 10%;color: white;}
+.sec1{background-color: dodgerblue;height: 350px;}
+.sec2{background-color: limegreen;height: 350px;}
+.sec3{background-color: orange;height: 350px;}
+.footer{height: 50px;background-color: #1c1c1c;}
+.fontup2{font-size: 1.5em;}
+.link{font-size: 2.4em;}
+
+@media (max-width: 1050px){}
+@media (max-width: 1930px){
+    .fontup{font-size: 1.5em;}
+    .cont h1 {font-size: 3em;}
+    .cont h3  {font-size: 2em;line-height: 30px;}
+    .cont h2 {font-size: 1em;}
+    .cont h4 {font-size: 1.5em;line-height: 20px;}
+    .footer{height: 70px;}
+}
