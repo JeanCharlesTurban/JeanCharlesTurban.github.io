@@ -7,7 +7,7 @@
 .fontup{font-size: 2em;}
 .bluehover{color: white;}
 .bluehover:hover{color: skyblue;}
-
+a:hover{color: dodgerblue;}
 
 
 .full{width: 100%;float: left;}
