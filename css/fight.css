@@ -5,3 +5,8 @@ body{width: 100%;height: 100%}
 .background{background-image: url(../Images/metal.jpg); min-height: 100%;width: 100%;background-size: cover;background-position: bottom;background-repeat: repeat-y;}
 .whiteborder{border: solid white 2px; height: 170px;margin-top: 10px;}
 r{background-color: crimson;padding: 5px;border-radius: 5px;margin-right: 10px;}
+
+@media (max-width: 1050px){
+    .whiteborder{height: 250px;}
+    h3 {font-size: .9em;}
+}
