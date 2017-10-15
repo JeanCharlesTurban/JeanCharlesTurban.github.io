@@ -12,6 +12,7 @@
 
 #navbar img {margin-top: 15px;}
 
+
 .whitebox{min-height: 60%;background-color: white;}
 .sectwo{border-right: solid white 2px;border-left: solid white 2px;height: 250px;margin-bottom: 30px;}
 
@@ -26,7 +27,6 @@
     .header{font-size-adjust: auto;font-size: 5em;}
     #middle .titlesubfont{font-size: 2em;}
     .sectwo{border-color: transparent;height: auto;}
-    .mobile{background-color: white;width: 80%}
     #pl .titlesubfont{font-size: 1em;}
     .footer h3{font-size: 1.2em;}
 }
