@@ -1,19 +1,32 @@
-.mainbackground {background-image: url(../Images/op3.jpg); height: 100%;width: 100%;background-size: cover;background-position: bottom;}
-.centertitle{margin-top: 7%;padding: 10px;transition: all 1s;font-size: 15em;}
-.centertitle:hover{letter-spacing: 10px;}
-.navbutton{margin-top:0%; border: solid transparent 3px;padding: 3px;letter-spacing: 1px;transition: all 1s;font-size: 3em;}
-.navbutton:hover {letter-spacing: 5px;color: white;border-top-color: white;border-bottom-color: white;}
-.sc1{margin-top: 0%;}
-.transparenttext{text-align: center;background: url(../Images/snow.jpg);-webkit-background-clip: text;-webkit-text-fill-color: transparent;background-size: cover;background-position: bottom;} 
+.mainbackground {background: url("../Images/op8.jpg")repeat fixed 100%; height: 100%;width: 100%;background-size: cover;background-position: center;}
+.background{background: url("../Images/space.jpg")repeat fixed 100%;min-height: 50%;width: 100%;}
+
+.header{font-size: 11em; margin-top: 10%;margin-bottom: 0%;}
+
+@media (max-width: 1930px){}
+
+#content{font-size: 1.5em;}
+#content a:hover{color: black;text-decoration: underline;}
+
+.bmpdown{margin-bottom: 20px;}
+
+#navbar img {margin-top: 15px;}
+
+.whitebox{min-height: 60%;background-color: white;}
+.sectwo{border-right: solid white 2px;border-left: solid white 2px;height: 250px;margin-bottom: 30px;}
+
+.bar {width: 100%;background-color: gainsboro;height: 10px;border-radius: 1000px;margin-bottom: 10px;margin-top: 3px;}
+.html5{width: 66%;background-color: deepskyblue;}
+.python{width: 100%;background-color: greenyellow}
+.java{width: 40%;background-color: crimson}
+
+.mobile{background-color: transparent;width: 80%}
+
 @media (max-width: 1050px){
-    .sc1{margin-top: 90%;}
-    .navbutton{color: black;font-size: 2em;}
-    .centertitle{margin-top: 0%;}
-    .mainbackground{background-image: url(../Images/op1.jpg);}
-    .centertitle {font-size: 5em;}
-    .transparenttext{ background: url(../Images/op5.jpg);-webkit-background-clip: text;-webkit-text-fill-color: transparent;background-size: cover;}
-    #contact {color: white;}
-}
-@media (max-width: 1930px){
-    .centertitle{margin-top: 3%;}
+    .header{font-size-adjust: auto;font-size: 5em;}
+    #middle .titlesubfont{font-size: 2em;}
+    .sectwo{border-color: transparent;height: auto;}
+    .mobile{background-color: white;width: 80%}
+    #pl .titlesubfont{font-size: 1em;}
+    .footer h3{font-size: 1.2em;}
 }
