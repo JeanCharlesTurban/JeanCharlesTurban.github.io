@@ -1,0 +1,18 @@
+.header{font-size: 8em; margin-top: 10%;margin-bottom: 0%;}
+
+#content{font-size: 1.5em;}
+#content a:hover{color: black;text-decoration: underline;}
+
+.bmpdown{margin-bottom: 20px;}
+
+.pic{border-right: solid black 5px;border-top: solid transparent 5px;}
+
+
+.whitebox{min-height: 60%;background-color: white;}
+.header{text-transform: uppercase;}
+@media (max-width: 1050px)
+{
+    .pic{border-right-color: transparent;border-top-color: black;}
+    .header{font-size-adjust: auto;font-size: 5em;}
+}
+

@@ -1,9 +1,24 @@
+body{overflow-x: hidden;}
 .mainbackground {background-image: url(http://i.imgur.com/eHSVOgC.jpg); min-height: 100%;width: 100%;background-size: cover;background-position: top;}
 a{color: white;}a:hover{text-decoration: none;color: dodgerblue;}
 .backwhite{background-color: white;}
-#work{margin-top: 10px;}
 
-.box{width: 90%;height: 200px;overflow: hidden;transition: 1s ease;margin-bottom: 20px;}
-.box h4{padding: 5px;margin: 0px;background-color: white;opacity: 0;transition: .5s ease;}
-.box img{margin-bottom: 0px;}
-.box:hover h4{opacity: 1;letter-spacing: normal;}
+
+.win{width: 100%;height: 200px;overflow: hidden;z-index: 0;position: relative;transition: all 1s;left: 0px;top: 0px;margin-bottom: 20px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0), 0 6px 20px 0 rgba(0, 0, 0, 0);}
+.rb{background-color: crimson;}
+.bb{background-color: dodgerblue;}
+.gb{background-color: yellowgreen;}
+.yb{background-color: orangered;}
+
+
+.win:hover{width: 110%;z-index: 99;position: absolute;left: -5%;
+    height: 220px;top: -10px;transition: all .5s;margin-bottom: 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+
+
+#work .col-md-3{padding: 0px;}
+
+@media (max-width: 950px){
+    .win:hover{width: 100%;height: 200px;overflow: hidden;z-index: 0;position: relative;transition: all 1s;left: 0px;top: 0px;margin-bottom: 20px;}
+    
+}
