@@ -1,0 +1,8 @@
+.mainbackground{background: url(../Images/mainback.jpg)repeat fixed 100%;
+background-size: cover;height: 100%;background-position: bottom;}
+
+.cube-opt{height: 150px;background-color: inherit;text-align: center;border: solid white 3px;transition: all 1s;background-color: rgba(0,0,0,.5)}
+.cube-opt:hover {background-color: crimson;transition: all 1s;}
+
+h4 {margin-bottom: 0px;}
+.space-down{margin-top: 2vh}
