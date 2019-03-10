@@ -58,3 +58,17 @@ background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+
 .tab h3 {margin: 0px;}
 .bio-pic {border-radius: 900px;}
 .bio-text {padding: 20px;}
+
+@media (max-width: 500px) {
+  .holder{float: left;width: 100%;}
+  .pgrm {width:100%;float: left;}
+  .soft {width: 100%;float: left;}
+  .bio {height: 650px;}
+  .fl {transform: translate(70vw,15vh);}
+  h2 {font-size: 1.5em;}
+  h3 {font-size: 1.3em;}
+  h4 {font-size: 1em;margin-bottom: 3px;}
+  h5 {font-size: .9em;margin-top: 5px;}
+  h6 {font-size: .7em;}
+
+    }
