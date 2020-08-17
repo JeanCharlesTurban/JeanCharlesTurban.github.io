@@ -49,15 +49,14 @@ a:link {text-decoration: none;}a:visited {text-decoration: none;}a:hover {text-d
   font-size: 1em;}
 
 .bio-holder {width: 100%;float: left;margin-bottom: 10vh;}
-.bio {width: 80%;height: 300px;box-shadow: 0 10px 20px rgba(0,0,0,0.25), 0 5px 5px rgba(0,0,0,0.22);border-radius: 50px;background: #12c2e9;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
+.bio-holder h1 {margin-top: 5px;}
+.bio {width: 80%;box-shadow: 0 10px 20px rgba(0,0,0,0.25), 0 5px 5px rgba(0,0,0,0.22);
+  border-radius: 50px;background: #1c1c1c;}
 .bio .title2 {font-family: 'ZCOOL QingKe HuangYou', cursive;font-weight: 100;color: white;}
 .tab {width: 33%;float: left;margin-top: 10px;}
 .tab h3 {margin: 0px;}
 .bio-pic {border-radius: 900px;}
-.bio-text {padding: 20px;}
+.bio-text {padding: 10px;}
 
 @media (max-width: 500px) {
   .holder{float: left;width: 100%;}
