@@ -21,24 +21,24 @@
 .squareTwo h2 {font-weight: 900;}
 .squareTwo p {}
 
-.squareOne h3:nth-of-type(1) {color: crimson;}
-.squareOne h3:nth-of-type(2) {color: deepskyblue;}
-.squareOne h3:nth-of-type(3) {color: limegreen;}
-.squareOne h3:nth-of-type(4) {color: orange;}
+.squareOne h4:nth-of-type(1) {color: crimson;}
+.squareOne h4:nth-of-type(2) {color: deepskyblue;}
+.squareOne h4:nth-of-type(3) {color: limegreen;}
+.squareOne h4:nth-of-type(4) {color: orange;}
 
 
 .statsBlock {height:48vh;background-color: transparent;margin-bottom: 2vh;}
 
 .squareTwo {background-color: transparent;float:right;
             overflow: scroll;overflow-x: hidden;
-            margin-top: 30px;max-height: 90vh;}
+            margin-top: 30px;max-height: 90vh;padding: 5px;}
 
 
 
 
 .cube {height: 30%;width: 30%;float: left;margin: 8px;
       box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
-      padding: 20px;}
+      padding: 5px;}
 
       .otherCube {float: left;height: 25%;width: 100%;opacity: 70%;}
 
@@ -76,7 +76,7 @@
 
 
 .cube h2 {color: white;font-weight: 900;}
-.cube h4 {color: lightgrey;font-weight: 500;}
+.cube h5 {color: #ededed;font-weight: 500;}
 
 
 .statsBlock .cube:nth-of-type(1) {background-color: #353531;
@@ -101,16 +101,16 @@ body {
       background-color:#ededed;
       font-family: 'Roboto Mono', monospace;}
 
-.back h4 {font-weight: 900;}
-.back p {font-size: .9em;}
+.back h4 {font-weight: 900;font-size: 1em;}
+.back p {font-size: .7em;}
 
 
 .tile{
-    width: 21vw; height: 30vh;
+    width: 20vw; height: 30vh;
     transition: all .5s;
     border-radius: 15px;
     float: left;
-    margin: 20px;
+    margin: 10px;
     transform-style: preserve-3d;
     align: center;}
 
@@ -179,18 +179,18 @@ background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, F
 .tile:hover{ transform: rotateY(180deg);}
 
 hr {color: #1c1c1c;background-color: #1c1c1c;height: 7px;width: 100px;
-    float: left;margin-top: 0px}
+    float: left;margin-top: 0px;margin-right: 50vw;}
 
 
 
-@media (max-width: 500px) { h1 {font-size: 1em;}
+@media (max-width: 500px) { h1 {font-size: .9em;}
                             h2 {font-size: 1em;}
 
                             .back h4 {font-weight: 900;}
-                            .back p {font-size: .55em;}
+                            .back p {font-size: .7em;}
 
-                            h3 {font-size: .6em;}
-                            h4 {font-size: .5em;}
+                            h3 {font-size: 1em;}
+                            h4 {font-size: .7em;}
                             h5 {font-size: .9em;}
                             .cube {margin: 2px;text-align: center;padding-top: 20px;padding-bottom: 20px;padding-left: 2px;padding-right: 2px;}
                             .tile{
@@ -198,6 +198,7 @@ hr {color: #1c1c1c;background-color: #1c1c1c;height: 7px;width: 100px;
                             .squareTwo {padding: 5px;}
                             #aboutme {text-align: center;}
                             #aboutme h1 {margin-top: 10px;}
+                            hr {margin-right: 100vw;}
 
 
 }
