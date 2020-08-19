@@ -214,9 +214,26 @@ background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, F
             transform: rotateY(180deg);
             border-radius: 15px;
             padding: 10px;
-            box-shadow: 0 10px 20px rgba(0,0,0,0.25), 0 5px 5px rgba(0,0,0,0.22);}
+            box-shadow: 0 10px 20px rgba(0,0,0,0.25), 0 5px 5px rgba(0,0,0,0.22);
+            overflow: scroll;
+            overflow-x: hidden;}
 
-.tile:hover{ transform: rotateY(180deg);}
+
+.squareTwo hr:after {
+    content: "<br>";
+    float: left;
+    padding-left: 6ex;
+    visibility: hidden;
+}
+
+a:link {text-decoration: none;}a:visited {text-decoration: none;}a:hover {text-decoration: none;}a:active {text-decoration: none;}
+
+.pdfdownloader {position: absolute;left: 90%;top: 5%;height: 60px;width: 100px;z-index: 99;padding: 5px;text-align: center;
+                background-color: #1c1c1c;font-weight: 900;color: white;}
+
+.pdfdownloader:hover {background-color: grey;color: #1c1c1c;}
+
+.pdfdownloader a {color: white;}
 
 hr {color: #1c1c1c;background-color: #1c1c1c;height: 7px;width: 100px;
     float: left;margin-top: 0px;margin-right: 50vw;}
