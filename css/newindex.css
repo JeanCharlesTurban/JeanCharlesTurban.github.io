@@ -228,8 +228,14 @@ background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, F
 
 a:link {text-decoration: none;}a:visited {text-decoration: none;}a:hover {text-decoration: none;}a:active {text-decoration: none;}
 
-.pdfdownloader {position: absolute;left: 90%;top: 5%;height: 60px;width: 100px;z-index: 99;padding: 5px;text-align: center;
+.pdfdownloader {position: absolute;left: 90%;top: 5%;height: 60px;width: 7vw;z-index: 99;padding: 5px;text-align: center;
                 background-color: #1c1c1c;font-weight: 900;color: white;}
+
+.pdfdownloader:nth-of-type(2) {left: 82%;}
+
+.pdfdownloader:nth-of-type(3) {left: 74%;}
+
+.pdfdownloader:nth-of-type(3) a {font-size: .6em;}
 
 .pdfdownloader:hover {background-color: grey;color: #1c1c1c;}
 
