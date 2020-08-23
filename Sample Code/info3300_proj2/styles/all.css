@@ -1,0 +1,130 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    font-family: 'Roboto Mono', monospace;
+    color:white;
+    background: url("../sampleback.jpg")repeat fixed 100%;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    overflow-x: hidden;
+}
+
+
+#ptop {
+    margin-left: 5vw;
+    margin-right: 5vw;background-color: white;
+    padding: 10px;color: #1c1c1c;border-radius: 5px;text-align: center;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.25), 0 5px 5px rgba(0,0,0,0.22);
+}
+
+.height {
+    height: 25px;
+}
+
+.height2 {
+    height: 12px;
+}
+
+
+#container {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    /* background: white; */
+    /* opacity: .6; */
+}
+
+#choices {
+    width: 1300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.left_side, .right_side {
+    flex-grow: 1;
+}
+
+
+input[type = number] {
+    width: 25%;
+}
+
+.user_weights {
+    display: flex;
+    width: 900px;
+    font-size: 12px;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+
+.reset_img {
+    width: 22px;
+}
+
+
+#reset_notif {
+    visibility: hidden;
+    padding: 2px;
+    margin: 0px;
+    margin-top: 12px;
+}
+
+#vs {
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+
+}
+
+button, select{
+    background: white;
+    margin-top: 3px;
+    font-size: 15px;
+    border-radius: 5px;
+    font-weight: lighter;
+    color: black;
+    box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2), 0 6px 6px 0 rgba(0,0,0,0.19);
+  }
+
+#fight, #slow, #reset,#fast{
+font-size:20px;
+}
+
+input{
+border-radius: 2px;
+
+}
+
+
+.boxys {
+    fill: white;
+}
+
+gr {color: green;font-weight: 900;} pr{color: purple;font-weight: 900;}
+bl {color: blue;font-weight: 900;} rd {color: crimson; font-weight: 900;}
+
+.explanations {
+    background-color: white;
+    border-radius: 5px;
+    width:1000px;
+    padding: 20px;
+    color: #1c1c1c;
+    font-size: 12px;
+}
+
+.leftf {float: left;}
+.half {width: 50%;margin-bottom: 10px;}
+#org1 {float: left;}
+#org2 {float: right;}
+
+text {font-size: 12px;}
