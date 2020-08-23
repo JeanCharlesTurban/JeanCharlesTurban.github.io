@@ -1,5 +1,5 @@
 // constants
-const heroes = d3.csv("../final_dataset.csv");
+const heroes = d3.csv("final_dataset.csv");
 const max_first_round = 32;
 const max_second_round = 8;
 const max_third_round = 4;
