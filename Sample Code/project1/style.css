@@ -1,0 +1,111 @@
+html {
+  width: 100%;
+  height: 100%;
+  background-color: white;
+}
+body {
+  width: 100%;
+  height: 100%;
+  background-color: white;
+}
+
+@font-face{
+  font-family: 'Roboto Mono', monospace;
+  src: url("RobotoMono-Regular.ttf");
+}
+.spcl {
+  margin-left: 10px;
+}
+
+.axiss{
+  color:white;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.white{
+  color: white;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 900;
+}
+
+.title {
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: white;
+}
+.navbar{
+  background-color: black;
+  box-shadow: 1px 1px 30px black;
+}
+.main{
+  background-color: white;
+  height: 100vh;
+}
+.navbar img {
+  padding: 10px;
+}
+.desc{
+  width: 600px;
+  height: 300px;
+  background-color: white;
+  margin-top: 30px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  padding-top: 7px;
+  padding-left: 15px;
+}
+.box {
+  background-color: black;
+  height: 350px;
+  width: 350px;
+  margin: 10px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+gr {
+  color: #1db954;
+  font-weight: 900;
+  font-family: 'Roboto Mono', monospace;
+}
+.sp {
+  line-height: 15px;
+}
+
+  #viz{
+    background-color: white;
+    width: 800px;
+  }
+  #main{
+    float:left;
+    margin-bottom: 20px;
+    margin-right: 30px;
+  }
+
+  .font {
+    font-family: 'Roboto Mono', monospace;
+  }
+  r {
+    color: red;
+  }
+  bl {
+    color: deepskyblue;
+  }
+  or {
+    color: orange;
+  }
+  .side{
+    min-width: 300px;
+    display:flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+
+  }
+  .description{
+    min-width: 300px;
+    display:flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    max-width: 800px;
+
+  }

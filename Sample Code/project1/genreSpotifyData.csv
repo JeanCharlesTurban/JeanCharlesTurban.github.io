@@ -1,0 +1,495 @@
+﻿song_name,song_popularity,song_duration_ms,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence,artist_name,album_names,playlist
+Boulevard of Broken Dreams,73,262333,0.00552,0.496,0.682,2.94E-05,8,0.0589,-4.095,1,0.0294,167.06,4,0.474,Green Day,Greatest Hits: God's Favorite Band,00s Rock Anthems
+In The End,66,216933,0.0103,0.542,0.853,0,3,0.108,-6.407,0,0.0498,105.256,4,0.37,Linkin Park,Hybrid Theory,00s Rock Anthems
+Seven Nation Army,76,231733,0.00817,0.737,0.463,0.447,0,0.255,-7.828,1,0.0792,123.881,4,0.324,The White Stripes,Elephant,00s Rock Anthems
+By The Way,74,216933,0.0264,0.451,0.97,0.00355,0,0.102,-4.938,1,0.107,122.444,4,0.198,Red Hot Chili Peppers,By The Way (Deluxe Version),00s Rock Anthems
+How You Remind Me,56,223826,0.000954,0.447,0.766,0,10,0.113,-5.065,1,0.0313,172.011,4,0.574,Nickelback,Silver Side Up,00s Rock Anthems
+Bring Me To Life,80,235893,0.00895,0.316,0.945,1.85E-06,4,0.396,-3.169,0,0.124,189.931,4,0.32,Evanescence,Fallen,00s Rock Anthems
+Last Resort,81,199893,0.000504,0.581,0.887,0.00111,4,0.268,-3.659,0,0.0624,90.578,4,0.724,Papa Roach,Infest,00s Rock Anthems
+Are You Gonna Be My Girl,76,213800,0.00148,0.613,0.953,0.000582,2,0.152,-3.435,1,0.0855,105.046,4,0.537,Jet,Get Born,00s Rock Anthems
+Mr. Brightside,80,222586,0.00108,0.33,0.936,0,1,0.0926,-3.66,1,0.0917,148.112,4,0.234,The Killers,Hot Fuss,00s Rock Anthems
+Sex on Fire,81,203346,0.00172,0.542,0.905,0.0104,9,0.136,-5.653,1,0.054,153.398,4,0.374,Kings of Leon,Only By The Night,00s Rock Anthems
+The Middle,78,168253,0.0424,0.629,0.897,0,2,0.263,-3.401,1,0.0483,161.944,4,0.93,Jimmy Eat World,Bleed American (Deluxe Edition),00s Rock Anthems
+Numb,63,185586,0.0046,0.496,0.863,0,9,0.639,-4.153,1,0.0381,110.018,4,0.243,Linkin Park,Meteora,00s Rock Anthems
+Smooth Criminal,75,209266,0.00434,0.647,0.964,0.0036,9,0.15,-4.225,0,0.06,126.942,4,0.875,Alien Ant Farm,Anthology,00s Rock Anthems
+Can't Stop,81,269000,0.0179,0.618,0.938,0,9,0.167,-3.442,1,0.0456,91.455,4,0.875,Red Hot Chili Peppers,By The Way (Deluxe Version),00s Rock Anthems
+Chop Suey!,69,210240,0.000353,0.42,0.929,0.000747,7,0.122,-3.899,0,0.121,127.204,4,0.3,System Of A Down,Toxicity,00s Rock Anthems
+Take Me Out,77,237026,0.000423,0.278,0.676,0.000899,9,0.136,-8.821,1,0.0371,104.545,4,0.494,Franz Ferdinand,Franz Ferdinand,00s Rock Anthems
+I Miss You,71,227240,0.00136,0.659,0.778,6.79E-06,11,0.0841,-6.423,1,0.0379,110.022,4,0.623,blink-182,blink-182,00s Rock Anthems
+Best of You,62,256600,0.00701,0.37,0.944,2.90E-06,1,0.135,-4.979,0,0.0767,130.315,4,0.345,Foo Fighters,Best Of You,00s Rock Anthems
+I Write Sins Not Tragedies,77,187613,0.0938,0.567,0.795,0,9,0.114,-4.985,0,0.134,170.06,4,0.635,Panic! At The Disco,A Fever You Can't Sweat Out,00s Rock Anthems
+Kryptonite,79,233933,0.00664,0.545,0.865,1.12E-05,11,0.168,-5.708,0,0.0286,99.01,4,0.543,3 Doors Down,The Better Life,00s Rock Anthems
+The Kill (Bury Me),69,231533,0.0014,0.309,0.912,0.000271,4,0.582,-3.881,0,0.0646,183.035,3,0.302,Thirty Seconds To Mars,A Beautiful Lie,00s Rock Anthems
+Use Somebody,79,230760,0.00552,0.276,0.715,0.000417,0,0.201,-5.356,1,0.0432,137.028,4,0.173,Kings of Leon,Only By The Night,00s Rock Anthems
+No One Knows,13,255066,0.0137,0.518,0.538,0.000398,0,0.141,-5.818,1,0.0486,170.953,4,0.687,Queens of the Stone Age,No One Knows (International Version),00s Rock Anthems
+Jerk It Out,62,195666,0.0171,0.58,0.981,1.07E-05,8,0.386,-2.603,0,0.06,134.007,4,0.861,Caesars,Love For The Streets,00s Rock Anthems
+Uprising,77,304840,0.000202,0.602,0.905,0.064,2,0.117,-4.046,1,0.0775,128.019,4,0.411,Muse,The Resistance,00s Rock Anthems
+Hey There Delilah,79,232533,0.872,0.657,0.291,0,2,0.114,-10.572,1,0.0293,103.973,4,0.298,Plain White T's,All That We Needed,00s Rock Anthems
+Blurry,28,303920,0.0102,0.44,0.932,0,3,0.142,-4.488,0,0.0584,157.438,4,0.495,Puddle Of Mudd,Come Clean (Repackaged International Version),00s Rock Anthems
+American Idiot,78,176346,2.64E-05,0.38,0.988,7.86E-05,1,0.368,-2.042,1,0.0639,186.113,4,0.769,Green Day,American Idiot,00s Rock Anthems
+Welcome to the Black Parade,77,311106,0.000289,0.217,0.905,0.00011,2,0.222,-4.103,1,0.0752,96.95,4,0.236,My Chemical Romance,The Black Parade,00s Rock Anthems
+Gives You Hell,71,213106,0.0156,0.714,0.725,0,4,0.0726,-6.411,1,0.0402,99.988,4,0.59,The All-American Rejects,When The World Comes Down,00s Rock Anthems
+All My Life,11,262733,0.000194,0.582,0.597,0.000273,5,0.517,-5.671,1,0.0512,167.738,4,0.674,Foo Fighters,ONE BY ONE,00s Rock Anthems
+Like a Stone,77,293960,0.00797,0.614,0.568,0,7,0.0997,-5.477,0,0.0276,107.849,4,0.516,Audioslave,Audioslave,00s Rock Anthems
+It's Been Awhile,65,264706,0.00189,0.509,0.774,0.000549,6,0.143,-4.054,1,0.0338,116.529,4,0.0824,Staind,Break The Cycle,00s Rock Anthems
+I Hate Everything About You,75,231480,0.00461,0.498,0.83,0,6,0.139,-5.157,0,0.0421,89.342,4,0.453,Three Days Grace,Three Days Grace (Deluxe Version),00s Rock Anthems
+Rollin' (Air Raid Vehicle),74,213760,0.00506,0.599,0.932,0,9,0.269,-3.328,1,0.18,96.234,4,0.692,Limp Bizkit,Chocolate Starfish And The Hot Dog Flavored Water,00s Rock Anthems
+Fat Lip,74,178266,0.000618,0.574,0.911,0,9,0.0769,-5.176,1,0.0715,98.075,4,0.573,Sum 41,"All Killer, No Filler",00s Rock Anthems
+The Pretender,11,269373,0.000917,0.433,0.959,0,9,0.028,-4.04,1,0.0431,172.984,4,0.365,Foo Fighters,"Echoes, Silence, Patience & Grace",00s Rock Anthems
+Savior,73,242280,0.00164,0.549,0.93,6.67E-05,5,0.39,-3.468,0,0.0487,112.447,4,0.526,Rise Against,Appeal To Reason,00s Rock Anthems
+Bodies,74,201960,0.00347,0.656,0.932,0.00147,4,0.144,-3.405,0,0.0708,130.936,4,0.544,Drowning Pool,Sinner,00s Rock Anthems
+"Sugar, We're Goin Down",79,229093,0.00898,0.499,0.824,0,7,0.163,-4.741,1,0.0794,161.977,4,0.699,Fall Out Boy,From Under The Cork Tree,00s Rock Anthems
+Last Nite,70,193373,0.0223,0.624,0.899,0.000155,0,0.0975,-5.71,1,0.0295,104.055,4,0.797,The Strokes,Is This It,00s Rock Anthems
+Through Glass,60,282946,0.0417,0.545,0.753,0,3,0.389,-4.618,0,0.036,105.754,4,0.434,Stone Sour,Come What[ever] May,00s Rock Anthems
+The Diary of Jane - Single Version,69,200546,5.53E-05,0.374,0.961,0.0834,10,0.138,-4.421,0,0.0851,167.032,4,0.357,Breaking Benjamin,Phobia (Explicit Version),00s Rock Anthems
+Down With the Sickness,73,279213,0.000996,0.695,0.876,6.89E-06,3,0.106,-4.262,0,0.0553,89.954,4,0.941,Disturbed,The Sickness,00s Rock Anthems
+Wish You Were Here,62,212733,0.000631,0.246,0.768,0.301,9,0.102,-7.48,1,0.0387,169.873,4,0.35,Incubus,Morning View,00s Rock Anthems
+Youth Of The Nation,72,256240,0.00834,0.563,0.86,0.0106,8,0.39,-7.533,1,0.0621,97.867,4,0.517,P.O.D.,Satellite (U.S. Version WEA Distribution),00s Rock Anthems
+Vertigo,57,194520,0.000153,0.391,0.831,0.00192,2,0.141,-3.892,1,0.0613,139.946,4,0.683,U2,How To Dismantle An Atomic Bomb,00s Rock Anthems
+Miss Murder,71,206586,0.000213,0.309,0.875,0.00168,1,0.113,-4.49,1,0.0488,143.526,4,0.725,AFI,DECEMBERUNDERGROUND,00s Rock Anthems
+I Bet You Look Good On The Dancefloor,63,173680,0.00225,0.535,0.948,0,6,0.376,-4.19,0,0.0356,103.183,4,0.778,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",00s Rock Anthems
+"Steady, As She Goes",64,215266,0.0132,0.524,0.578,0.00921,9,0.108,-4.563,1,0.12,123.669,4,0.537,The Raconteurs,Broken Boy Soldiers,00s Rock Anthems
+Falling Away from Me,71,270920,0.00014,0.468,0.769,0.00124,4,0.271,-7.036,1,0.041,104.102,4,0.17,Korn,Issues,00s Rock Anthems
+Crawling In The Dark,61,175026,0.000295,0.592,0.932,7.59E-05,6,0.138,-4.491,0,0.0885,93.675,4,0.698,Hoobastank,Hoobastank,00s Rock Anthems
+I Stand Alone,67,246040,4.78E-05,0.213,0.93,0,0,0.126,-4.478,1,0.0671,169.221,4,0.386,Godsmack,Faceless,00s Rock Anthems
+Woman,63,176306,5.10E-05,0.219,0.952,0.0989,2,0.157,-3.621,1,0.176,112.886,1,0.172,Wolfmother,Wolfmother,00s Rock Anthems
+Show Me How to Live,72,277840,0.000336,0.433,0.854,0.000177,9,0.162,-3.868,1,0.0483,89.4,4,0.368,Audioslave,Audioslave,00s Rock Anthems
+The Red,71,238400,0.000671,0.509,0.843,0.000803,1,0.348,-3.318,0,0.0488,140.055,3,0.332,Chevelle,Wonder What's Next,00s Rock Anthems
+Remedy,70,207213,0.00018,0.546,0.959,0.00144,8,0.0584,-4.664,1,0.082,127.831,4,0.416,Seether,Karma and Effect,00s Rock Anthems
+Plug In Baby,65,218000,6.94E-06,0.408,0.965,0.000402,2,0.11,-4.232,1,0.05,136.018,4,0.349,Muse,Origin Of Symmetry,00s Rock Anthems
+Change (In the House of Flies) - In The House Of Flies LP Version,69,299533,0.000249,0.269,0.853,0.000246,7,0.118,-4.647,0,0.0854,141.581,4,0.179,Deftones,White Pony (U.S. Version),00s Rock Anthems
+Judith,66,247266,3.32E-05,0.365,0.894,0.171,11,0.267,-4.682,0,0.0572,82.305,3,0.31,A Perfect Circle,Mer De Noms,00s Rock Anthems
+MIA (feat. Drake),94,210367,0.0143,0.818,0.54,0.000512,6,0.099,-6.35,0,0.0544,97.064,4,0.174,Bad Bunny,MIA (feat. Drake),100% LatinX
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",98,212500,0.153,0.841,0.798,3.33E-06,1,0.0618,-4.206,0,0.229,95.948,4,0.591,DJ Snake,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",100% LatinX
+White Boi,59,185282,0.0983,0.83,0.497,0,1,0.0906,-6.94,1,0.052,127.965,4,0.634,Dillon Francis,WUT WUT,100% LatinX
+Just Wanna Love You (feat. J. Balvin),73,199230,0.0557,0.687,0.766,0.00107,11,0.146,-6.08,1,0.054,94.973,4,0.303,Cris Cab,Just Wanna Love You (feat. J. Balvin),100% LatinX
+Beautiful (feat. Camila Cabello),94,180000,0.346,0.638,0.717,0,2,0.105,-4.722,1,0.0337,100.027,4,0.249,Bazzi,Beautiful (feat. Camila Cabello),100% LatinX
+Celoso,87,179693,0.352,0.746,0.703,0,4,0.331,-4.179,0,0.107,166.043,4,0.667,Lele Pons,Celoso,100% LatinX
+Good Vibes,73,235720,0.0348,0.823,0.63,6.72E-06,7,0.0964,-3.932,1,0.0797,100.04,4,0.184,Fuego,Good Vibes,100% LatinX
+Real Friends,85,223583,0.235,0.701,0.512,5.07E-06,0,0.135,-6.869,0,0.0969,91.947,4,0.663,Camila Cabello,Real Friends,100% LatinX
+Pa La Calle,61,243487,0.117,0.695,0.884,0,0,0.104,-6.279,1,0.131,74.992,4,0.854,COASTCITY,Pa La Calle,100% LatinX
+Pa MÃ­,58,210865,0.716,0.722,0.584,0.000321,11,0.115,-8.467,0,0.318,169.978,4,0.646,Dalex,Pa MÃ­,100% LatinX
+Wake Up in the Sky,92,204664,0.00381,0.8,0.578,0,4,0.359,-5.144,0,0.0485,143.01,4,0.367,Gucci Mane,Wake Up in the Sky,100% LatinX
+EstÃ¡ Rico,83,215151,0.266,0.817,0.74,0,11,0.0992,-4.566,0,0.283,130.04,4,0.674,Marc Anthony,EstÃ¡ Rico,100% LatinX
+Banana Clip - Spanish Version,57,202373,0.107,0.398,0.66,0,1,0.121,-5.626,0,0.12,83.828,4,0.719,Miguel,Banana Clip (Spanish Version),100% LatinX
+YAKWTFGO (feat. Kali Uchis),44,162733,0.00397,0.812,0.748,0,5,0.174,-5.959,0,0.139,132.035,4,0.158,BIA,NICE GIRLS FINISH LAST: CUIDADO,100% LatinX
+Come With Me,47,157461,0.0526,0.659,0.734,2.48E-06,10,0.242,-4.008,1,0.046,161.971,4,0.346,Kap G,no kap,100% LatinX
+Como Si Na,54,170997,0.232,0.705,0.778,0,9,0.244,-4.101,0,0.177,160.099,4,0.709,Melii,Como Si Na,100% LatinX
+Blah,47,188440,0.0255,0.723,0.687,0.000207,11,0.124,-4.632,0,0.2,173.747,4,0.777,Mariah,Blah,100% LatinX
+Love N Hennessy REMIX (feat. 2 Chainz & Nicky Jam),64,253714,0.0257,0.928,0.402,0,8,0.0804,-7.569,0,0.451,139.998,4,0.62,A.CHAL,Love N Hennessy REMIX (feat. 2 Chainz & Nicky Jam),100% LatinX
+Mi Infinita,56,272000,0.902,0.465,0.675,0.267,10,0.11,-7.555,1,0.0485,119.941,4,0.129,Cuco,Chiquito,100% LatinX
+Coqueta,49,174000,0.571,0.632,0.652,0.85,4,0.194,-10.558,1,0.0302,115.031,4,0.594,KatzÃ¹ Oso,Pastel,100% LatinX
+Sola,65,209573,0.921,0.471,0.179,0,9,0.101,-10.273,1,0.089,174.273,4,0.194,Jessie Reyez,Sola,100% LatinX
+Nuestro Planeta (feat. Reykon),52,202754,0.0857,0.871,0.545,0.000499,0,0.0756,-6.466,0,0.0625,96.035,4,0.415,Kali Uchis,Nuestro Planeta (feat. Reykon),100% LatinX
+Hijo de Su Madre,61,178009,0.0646,0.829,0.606,0.391,5,0.281,-7.093,1,0.149,118.051,4,0.732,Omar Apollo,Stereo,100% LatinX
+Lento,65,169251,0.149,0.837,0.649,7.63E-05,11,0.103,-5.26,0,0.192,164.002,4,0.948,Rudy Mancuso,Lento,100% LatinX
+Dicen,77,220826,0.137,0.817,0.635,7.85E-06,5,0.245,-5.719,0,0.138,103.029,4,0.777,Matt Hunter,Dicen,100% LatinX
+BEBE,95,217822,0.172,0.635,0.902,0,0,0.125,-3.559,1,0.109,102.063,4,0.286,6ix9ine,BEBE,100% LatinX
+I Like It,95,253390,0.099,0.816,0.726,0,5,0.372,-3.998,0,0.129,136.048,4,0.65,Cardi B,Invasion of Privacy,100% LatinX
+Zooted (feat. French Montana & Farruko),74,217652,0.267,0.815,0.626,1.31E-05,6,0.275,-5.139,1,0.103,109.989,4,0.571,Becky G,Zooted (feat. French Montana & Farruko),100% LatinX
+Havana - Remix,77,199095,0.398,0.751,0.579,2.28E-05,2,0.133,-4.036,1,0.0321,105.031,4,0.349,Camila Cabello,Havana (Remix),100% LatinX
+Pum Pum,45,185743,0.0749,0.736,0.906,0.000123,4,0.12,-1.49,0,0.0566,93.013,4,0.611,Sammi Sanchez,Pum Pum,100% LatinX
+Quiero Saber,52,166253,0.00245,0.695,0.818,3.36E-06,6,0.305,-5.532,0,0.0482,102.976,4,0.599,Jesse Baez,Quiero Saber,100% LatinX
+Como,38,234373,0.00323,0.543,0.847,0,9,0.0551,-3.574,1,0.0659,92.046,4,0.65,Kim Viera,Como,100% LatinX
+Anywhere Contigo,46,193846,0.271,0.841,0.841,2.60E-05,9,0.108,-4.288,1,0.0633,104.01,4,0.823,Breakfast n Vegas,Anywhere Contigo,100% LatinX
+No Gratis,44,208800,0.425,0.777,0.546,0,7,0.0809,-9.504,1,0.207,147.173,4,0.952,Messiah,No Gratis,100% LatinX
+DÃ­ganle - Tainy Remix,75,211437,0.102,0.84,0.789,0,1,0.309,-4.695,0,0.0949,92.018,4,0.619,Leslie Grace,DÃ­ganle (Tainy Remix),100% LatinX
+Sangria Wine,75,202853,0.181,0.831,0.713,0,1,0.0572,-3.646,0,0.094,132.109,4,0.69,Pharrell Williams,Sangria Wine,100% LatinX
+All Day,45,198386,0.0797,0.825,0.481,0,2,0.239,-8.6,1,0.0396,121.046,4,0.761,DaniLeigh,Summer With Friends,100% LatinX
+Just As I Am,53,224413,0.235,0.682,0.751,0,8,0.11,-5.812,0,0.0675,129.937,4,0.708,Spiff TV,Just As I Am,100% LatinX
+Nice & Slow,38,218448,0.00694,0.799,0.616,0.00237,5,0.283,-4.599,0,0.0415,127.023,4,0.697,Nina Sky,Nice & Slow,100% LatinX
+Scooby Doo Pa Pa (Remix),60,176702,0.196,0.921,0.965,0.000201,1,0.323,-1.396,1,0.178,120.902,4,0.507,Dj Kass,Scooby Doo Pa Pa (Remix) - Single,100% LatinX
+Don't Werk,39,133120,0.108,0.703,0.617,5.61E-05,7,0.271,-8.732,1,0.0731,123.159,4,0.435,Paula DeAnda,Don't Werk,100% LatinX
+"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",88,201526,0.165,0.792,0.895,0,1,0.0501,-3.112,0,0.0589,94.968,4,0.794,Sofia Reyes,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",100% LatinX
+Pa Mi (with Ozuna),77,216689,0.0983,0.596,0.557,0,1,0.0565,-7.522,0,0.134,133.247,5,0.661,Tory Lanez,Pa Mi (with Ozuna),100% LatinX
+Lo Siento,68,226183,0.0705,0.746,0.738,0,9,0.043,-3.67,1,0.207,94.808,4,0.63,SUPER JUNIOR,REPLAY - The 8th Repackage Album,100% LatinX
+Nuestra Cancion Pt. 2 (feat. ArcÃ¡ngel),46,215003,0.0079,0.493,0.825,0,8,0.129,-4.056,1,0.0798,99.866,4,0.621,Snow Tha Product,Nuestra Cancion Pt. 2 (feat. ArcÃ¡ngel),100% LatinX
+La Hora Loca,44,175239,0.0429,0.836,0.725,0,7,0.108,-5.445,0,0.0571,126.035,4,0.76,Jackie Cruz,La Hora Loca,100% LatinX
+Dinero - English Version,37,161093,0.00436,0.701,0.779,0,11,0.121,-4.657,0,0.0647,119.974,4,0.451,Trinidad Cardona,Dinero (English Version),100% LatinX
+Pum Pum (feat. Kap G & Play-N-Skillz),53,182224,0.149,0.871,0.563,0,10,0.0568,-8.329,0,0.0795,91.998,4,0.62,Messiah,Pum Pum (feat. Kap G & Play-N-Skillz),100% LatinX
+Hora Loca,65,215421,0.0507,0.65,0.801,0,7,0.0645,-5.407,0,0.0723,166.16,4,0.74,DJ Africa,Hora Loca,100% LatinX
+Better With You,68,196018,0.265,0.784,0.437,6.98E-05,5,0.126,-7.868,1,0.0509,90.003,4,0.47,Michl,Better With You,100% LatinX
+NIGHTS LIKE THESE,59,204453,0.133,0.494,0.729,0,2,0.143,-4.934,1,0.161,78.833,4,0.421,Ne-Yo,GOOD MAN (Deluxe),100% LatinX
+Alright,43,229038,0.0199,0.561,0.58,0,5,0.0619,-5.612,1,0.0414,84.98,4,0.294,Anthony Ramos,Alright,100% LatinX
+Insecure,53,191906,0.369,0.483,0.685,0,10,0.0817,-3.232,0,0.174,185.502,4,0.546,Amara La Negra,Insecure,100% LatinX
+Si Una Vez - (If I Once)[Spanglish Version],54,237860,0.0762,0.62,0.823,3.13E-05,5,0.112,-2.436,1,0.0567,175.921,4,0.404,Play-N-Skillz,Si Una Vez [(If I Once)[Spanglish Version]],100% LatinX
+Finesse (Remix) [feat. Cardi B],84,217288,0.0185,0.704,0.859,0,5,0.0215,-4.877,0,0.0996,105.115,4,0.926,Bruno Mars,Finesse (Remix) [feat. Cardi B],100% LatinX
+Belong To U,44,202574,0.586,0.633,0.765,6.89E-05,1,0.0966,-5.732,1,0.0474,100.934,4,0.489,Fancy Cars,Belong To U,100% LatinX
+Sunny Daze,40,167823,0.569,0.853,0.714,0.0101,7,0.0716,-6.177,1,0.0767,92.375,4,0.836,Salaam Remi,South Beach Social Club,100% LatinX
+"Uno MÃ¡s Feat. Pharrell Williams, Miguel, Wiz Khalifa, J Alvarez (Remix)",41,241135,0.0652,0.8,0.837,4.52E-05,7,0.0699,-4.488,1,0.099,105.026,4,0.813,N.O.R.E.,"Uno MÃ¡s Remix Feat. Pharrell Williams, Miguel, Wiz Khalifa, J Alvarez",100% LatinX
+Island,37,194011,0.118,0.743,0.793,6.07E-05,2,0.227,-5.032,0,0.0546,109.921,4,0.434,Lil Eddie,Island,100% LatinX
+Hypnotize (feat. Pam Long) - 2016 Remastered,50,229906,0.165,0.9,0.681,0,9,0.23,-3.758,1,0.274,93.927,4,0.638,The Notorious B.I.G.,Bad Boy 20th Anniversary Box Set Edition,90's Hip-Hop Don't Stop
+California Love - Original Version,75,284480,0.0292,0.761,0.847,2.26E-06,7,0.39,-3.068,1,0.0417,91.519,4,0.765,2Pac,The Best of 2Pac - Pt. 1: Thug,90's Hip-Hop Don't Stop
+Don't Believe The Hype,54,319493,0.0142,0.884,0.472,0,11,0.142,-13.776,1,0.346,98.425,4,0.826,Public Enemy,It Takes A Nation Of Millions To Hold Us Back,90's Hip-Hop Don't Stop
+"Flava In Ya Ear (feat. The Notorious B.I.G., LL Cool J, Busta Rhymes & Rampage) - 2016 Remastered",51,302866,0.203,0.5,0.899,0,9,0.177,-3.907,0,0.467,177.815,4,0.754,Craig Mack,Bad Boy 20th Anniversary Box Set Edition,90's Hip-Hop Don't Stop
+The Rain (Supa Dupa Fly),61,246173,0.117,0.854,0.58,0.00471,1,0.0921,-10.008,1,0.217,162.116,4,0.7,Missy Elliott,Supa Dupa Fly,90's Hip-Hop Don't Stop
+The World Is Yours,59,290573,0.274,0.678,0.794,1.68E-06,10,0.124,-6.186,0,0.14,87.374,4,0.54,Nas,Illmatic XX,90's Hip-Hop Don't Stop
+Hip Hop Hooray,69,267266,0.102,0.862,0.642,0,6,0.272,-13.652,0,0.101,99.201,4,0.765,Naughty By Nature,19 Naughty III,90's Hip-Hop Don't Stop
+Keep Their Heads Ringin',64,305573,0.0442,0.672,0.785,0.00253,9,0.136,-4.214,0,0.109,90.574,4,0.219,Dr. Dre,Friday (Original Motion Picture Soundtrack),90's Hip-Hop Don't Stop
+Juicy - 2016 Remastered,47,302546,0.487,0.858,0.896,0,9,0.235,-2.344,1,0.26,96,4,0.783,The Notorious B.I.G.,Bad Boy 20th Anniversary Box Set Edition,90's Hip-Hop Don't Stop
+Gangsta's Paradise,82,240693,0.0655,0.647,0.514,0,8,0.398,-10.05,1,0.0593,79.974,4,0.387,Coolio,Gangsta's Paradise,90's Hip-Hop Don't Stop
+Gin And Juice (feat. Dat Nigga Daz),76,211493,0.0285,0.549,0.853,0.000296,7,0.618,-4.293,1,0.188,94.695,4,0.346,Snoop Dogg,Doggystyle,90's Hip-Hop Don't Stop
+Crush On You,57,275640,0.278,0.827,0.635,0.000119,11,0.109,-6.77,0,0.251,88.87,4,0.766,Lil' Kim,Hard Core,90's Hip-Hop Don't Stop
+The Humpty Dance,62,391693,0.0341,0.813,0.693,0,10,0.121,-8,0,0.266,103.508,4,0.618,Digital Underground,Sex Packets,90's Hip-Hop Don't Stop
+Cause I Can Do It Right,42,249506,0.309,0.769,0.681,1.20E-05,1,0.248,-12.906,1,0.136,108.462,4,0.901,Big Daddy Kane,Taste Of Chocolate,90's Hip-Hop Don't Stop
+Jump Around,77,214946,0.0113,0.854,0.71,8.72E-05,4,0.166,-6.32,0,0.0793,106.894,4,0.818,House Of Pain,House of Pain (Fine Malt Lyrics),90's Hip-Hop Don't Stop
+Put Your Hands Where My Eyes Could See,65,194293,0.00864,0.906,0.623,4.19E-06,1,0.0753,-6.711,0,0.303,99.498,4,0.715,Busta Rhymes,When Disaster Strikes,90's Hip-Hop Don't Stop
+"It's All About The Benjamins (feat. The Notorious B.I.G., Lil' Kim & The Lox) - Remix",56,278200,0.0405,0.856,0.696,8.75E-06,6,0.0901,-3.51,1,0.226,89.738,4,0.718,Diddy,No Way Out,90's Hip-Hop Don't Stop
+Sexy M.F.,48,326093,0.169,0.77,0.744,0.00223,2,0.0537,-8.133,1,0.0937,106.15,4,0.548,Prince,[Love Symbol],90's Hip-Hop Don't Stop
+Rump Shaker,44,311506,0.00372,0.865,0.836,0.00551,1,0.301,-6.088,1,0.225,102.754,4,0.248,Wreckx-N-Effect,American Reunion (Original Motion Picture Soundtrack),90's Hip-Hop Don't Stop
+Hail Mary,68,309800,0.158,0.654,0.637,1.28E-05,10,0.338,-6.915,0,0.293,81.947,4,0.364,Makaveli,The Don Killuminati: The 7 Day Theory,90's Hip-Hop Don't Stop
+I Got 5 On It,61,253533,0.193,0.583,0.692,0,10,0.121,-7.932,0,0.362,174.141,4,0.595,Luniz,Yukmouth Presents: 420,90's Hip-Hop Don't Stop
+Who Am I (What's My Name)?,72,246320,0.000136,0.692,0.833,1.98E-05,7,0.515,-3.974,1,0.0492,96.814,4,0.692,Snoop Dogg,Doggystyle,90's Hip-Hop Don't Stop
+U.N.I.T.Y.,18,251906,0.00561,0.659,0.738,0,4,0.319,-4.077,0,0.362,93.796,4,0.516,Queen Latifah,She's A Queen: A Collection Of Greatest Hits,90's Hip-Hop Don't Stop
+Mama Said Knock You Out,46,287893,0.0402,0.802,0.794,0.5,10,0.342,-7.351,0,0.125,102.37,4,0.614,LL Cool J,All World,90's Hip-Hop Don't Stop
+Mind Playing Tricks on Me,67,308733,0.207,0.886,0.512,0,10,0.0991,-11.825,0,0.237,93.997,4,0.454,Geto Boys,We Can't Be Stopped,90's Hip-Hop Don't Stop
+I Get Around,71,259000,0.157,0.849,0.422,1.19E-05,10,0.255,-13.95,0,0.122,96.216,4,0.624,2Pac,Strictly 4 My N.I.G.G.A.Z...,90's Hip-Hop Don't Stop
+Big Poppa,75,252746,0.432,0.778,0.578,0,9,0.138,-7.22,0,0.274,84.487,4,0.758,The Notorious B.I.G.,Ready To Die The Remaster,90's Hip-Hop Don't Stop
+"Shook Ones, Pt. II",77,325506,0.0146,0.763,0.786,0.0114,10,0.0817,-6.472,0,0.229,93.857,4,0.504,Mobb Deep,The Infamous,90's Hip-Hop Don't Stop
+Runnin',65,296266,0.0287,0.754,0.785,0.00144,10,0.319,-8.178,0,0.18,94.123,4,0.821,The Pharcyde,Labcabincalifornia (Deluxe Edition),90's Hip-Hop Don't Stop
+N.Y. State of Mind,64,293973,0.0394,0.665,0.91,0,6,0.227,-4.682,0,0.223,84.099,4,0.887,Nas,Illmatic XX,90's Hip-Hop Don't Stop
+Bring Da Ruckus,64,251466,0.234,0.794,0.627,0,11,0.35,-9.431,1,0.36,87.554,4,0.518,Wu-Tang Clan,Enter The Wu-Tang (36 Chambers) [Expanded Edition],90's Hip-Hop Don't Stop
+Oh My God,55,208840,0.0327,0.866,0.698,0.0187,10,0.108,-7.976,0,0.272,94.64,4,0.713,A Tribe Called Quest,Midnight Marauders,90's Hip-Hop Don't Stop
+Informer,64,268910,0.0984,0.763,0.742,0,6,0.38,-10.975,0,0.188,98.145,4,0.483,Snow,12 Inches Of Snow,90's Hip-Hop Don't Stop
+Killing Me Softly With His Song,72,298773,0.0279,0.765,0.29,1.02E-06,4,0.571,-17.117,0,0.139,92.409,4,0.506,Fugees,The Score,90's Hip-Hop Don't Stop
+Love Like This - 2016 Remaster,45,271920,0.00381,0.709,0.714,0,0,0.0513,-4.038,1,0.0786,100.866,4,0.759,Faith Evans,Bad Boy 20th Anniversary Box Set Edition,90's Hip-Hop Don't Stop
+Feel So Good - 2016 Remastered,45,204666,0.168,0.762,0.773,0,1,0.117,-6.037,0,0.255,105.154,4,0.568,Mase,Bad Boy 20th Anniversary Box Set Edition,90's Hip-Hop Don't Stop
+Insane in the Brain,46,210160,0.0208,0.901,0.63,0.0987,8,0.103,-10.841,0,0.188,102.182,4,0.73,Cypress Hill,Black Sunday (Radio Version),90's Hip-Hop Don't Stop
+Baby Got Back,27,262826,0.00471,0.933,0.664,0,1,0.0908,-11.281,1,0.311,128.467,4,0.616,Sir Mix-A-Lot,Mack Daddy,90's Hip-Hop Don't Stop
+Sabotage,73,178440,0.032,0.324,0.938,0.0321,6,0.0961,-7.332,0,0.102,168.131,4,0.543,Beastie Boys,Ill Communication,90's Hip-Hop Don't Stop
+O.P.P,60,271066,0.0326,0.848,0.838,4.63E-06,4,0.124,-11.949,0,0.0723,97.735,4,0.774,Naughty By Nature,Naughty By Nature,90's Hip-Hop Don't Stop
+Fight The Power,56,282640,0.00484,0.797,0.582,2.04E-06,2,0.517,-12.97,1,0.255,105.974,4,0.415,Public Enemy,Fear Of A Black Planet,90's Hip-Hop Don't Stop
+Poison,49,261866,0.00217,0.838,0.575,0.00872,6,0.641,-10.126,0,0.221,111.892,4,0.726,Bell Biv DeVoe,Poison (Expanded),90's Hip-Hop Don't Stop
+U Can't Touch This,73,257360,0.00456,0.867,0.517,0.000339,11,0.0864,-13.222,0,0.0875,133.148,4,0.866,MC Hammer,Please Hammer Don't Hurt 'Em,90's Hip-Hop Don't Stop
+Tennessee - Remastered,45,272706,0.0284,0.815,0.851,0,1,0.343,-3.667,0,0.178,99.915,4,0.674,Arrested Development,Classic Masters,90's Hip-Hop Don't Stop
+Around The Way Girl,48,246533,0.00435,0.608,0.669,0.0109,1,0.337,-10.834,0,0.335,202.062,4,0.679,LL Cool J,Mama Said Knock You Out (Deluxe Edition),90's Hip-Hop Don't Stop
+Can't You See (feat. The Notorious B.I.G.) - 2016 Remastered,42,279520,0.195,0.707,0.735,5.88E-06,8,0.347,-4.881,0,0.0615,86.271,4,0.829,Total,Bad Boy 20th Anniversary Box Set Edition,90's Hip-Hop Don't Stop
+Get Ur Freak On,73,211120,0.533,0.797,0.75,0.108,0,0.095,-9.369,1,0.247,177.87,4,0.74,Missy Elliott,Miss E...So Addictive,90's Hip-Hop Don't Stop
+Can I Kick It?,72,251573,0.173,0.848,0.666,0.000699,0,0.129,-6.547,1,0.274,96.662,4,0.744,A Tribe Called Quest,People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition),90's Hip-Hop Don't Stop
+Anywhere - 2016 Remastered,41,247213,0.183,0.583,0.557,0,7,0.109,-6.045,0,0.27,125.888,4,0.856,112,Bad Boy 20th Anniversary Box Set Edition,90's Hip-Hop Don't Stop
+"Very Special - feat. Spinderella, Laree Williams And Karen Anderson",44,305013,0.241,0.686,0.398,0,8,0.0573,-13.361,0,0.143,80.228,4,0.688,Big Daddy Kane,Looks Like A Job For...,90's Hip-Hop Don't Stop
+Woo Hah!! Got You All In Check,42,271973,0.127,0.842,0.831,0,1,0.0881,-7.072,1,0.242,92.053,4,0.814,Busta Rhymes,The Best Of Busta Rhymes,90's Hip-Hop Don't Stop
+Return Of The Mack,73,213093,0.00631,0.715,0.833,0,2,0.164,-5.379,1,0.108,95.487,4,0.612,Mark Morrison,Return Of The Mack,90's Hip-Hop Don't Stop
+Just A Friend,63,238266,0.12,0.862,0.663,0,0,0.318,-9.004,1,0.21,85.308,4,0.837,Biz Markie,Biz's Baddest Beats: The Best Of Biz Markie,90's Hip-Hop Don't Stop
+Shimmy Shimmy Ya,68,161400,0.097,0.814,0.481,3.83E-05,0,0.0495,-5.183,1,0.245,96.252,4,0.193,Ol' Dirty Bastard,Return To The 36 Chambers: The Dirty Version,90's Hip-Hop Don't Stop
+Money Ain't a Thang,58,254253,0.0581,0.854,0.738,0,6,0.106,-7.284,0,0.244,100,4,0.847,Jermaine Dupri,Life In 1472 (The Original Soundtrack),90's Hip-Hop Don't Stop
+Got Your Money (feat. Kelis),65,239546,0.0516,0.934,0.459,0,1,0.222,-7.654,1,0.189,103.04,4,0.697,Ol' Dirty Bastard,N***A Please,90's Hip-Hop Don't Stop
+Knockin' Boots,32,233120,0.0877,0.941,0.678,0,7,0.358,-8.194,1,0.287,101.399,4,0.625,Candyman,Pure... Hip Hop,90's Hip-Hop Don't Stop
+Gettin' Jiggy Wit It,72,227694,0.0175,0.881,0.874,1.19E-06,6,0.154,-4.505,1,0.139,107.891,4,0.858,Will Smith,Big Willie Style,90's Hip-Hop Don't Stop
+Gone Till November,47,207466,0.0888,0.677,0.503,1.48E-05,4,0.182,-9.027,1,0.0867,85.926,4,0.417,Wyclef Jean,Wyclef Jean presents The Carnival featuring Refugee Allstars,90's Hip-Hop Don't Stop
+Rebirth Of Slick (Cool Like Dat),58,261266,0.0476,0.884,0.334,0.0588,1,0.107,-18.943,0,0.228,98.315,4,0.571,Digable Planets,Reachin' (A New Refutation Of Time And Space),90's Hip-Hop Don't Stop
+No Scrubs,51,218026,0.0463,0.799,0.642,0,8,0.0616,-5.523,0,0.13,92.907,4,0.536,TLC,Now & Forever - The Hits,90's Hip-Hop Don't Stop
+Doo Wop (That Thing),76,320266,0.0393,0.535,0.505,0,2,0.0923,-8.926,0,0.245,99.935,4,0.495,Ms. Lauryn Hill,The Miseducation of Lauryn Hill,90's Hip-Hop Don't Stop
+Summertime - Single Edit,47,237093,0.00328,0.614,0.752,0,7,0.379,-6.271,1,0.0652,95.018,4,0.444,DJ Jazzy Jeff & The Fresh Prince,The Very Best Of D.J. Jazzy Jeff & The Fresh Prince,90's Hip-Hop Don't Stop
+Ghetto Supastar (That is What You Are),70,261133,0.0335,0.818,0.653,5.46E-06,1,0.22,-8.396,1,0.204,99.931,4,0.533,Pras,Ghetto Supastar,90's Hip-Hop Don't Stop
+Jump,69,195106,0.000501,0.749,0.745,0.00403,2,0.333,-10.625,1,0.164,101.972,4,0.481,Kris Kross,Totally Krossed Out,90's Hip-Hop Don't Stop
+No Diggity,81,304600,0.303,0.868,0.646,0,1,0.284,-4.674,0,0.288,88.641,4,0.67,Blackstreet,Another Level,90's Hip-Hop Don't Stop
+Still Not a Player (feat. Joe),53,236120,0.19,0.902,0.653,0.000983,4,0.0895,-5.425,0,0.284,94.069,4,0.863,Big Pun,The Legacy: The Best Of Big Pun,90's Hip-Hop Don't Stop
+I Wish - Radio Edit,63,252306,0.00826,0.715,0.738,0,7,0.26,-10.139,1,0.157,97.877,4,0.573,Skee-Lo,I Wish,90's Hip-Hop Don't Stop
+Regulate,76,248866,0.29,0.845,0.51,2.39E-06,11,0.114,-13.064,0,0.224,95.265,4,0.74,Warren G,Regulateâ€¦ G Funk Era (Special Edition),90's Hip-Hop Don't Stop
+Now That We Found Love,45,257693,0.0312,0.72,0.891,0,8,0.21,-7.911,1,0.0761,119.976,4,0.7,Heavy D & The Boyz,Heavy Hitz,90's Hip-Hop Don't Stop
+I'll Be There For You/You're All I Need To Get By,10,307506,0.144,0.697,0.828,2.03E-06,1,0.334,-3.733,0,0.0963,95.052,4,0.555,Method Man,More Music From 8 Mile,90's Hip-Hop Don't Stop
+It Was A Good Day,64,260306,0.135,0.78,0.754,0.0339,5,0.0467,-5.377,0,0.0949,82.395,4,0.81,Ice Cube,The Essentials,90's Hip-Hop Don't Stop
+Funkdafied,50,185933,0.0757,0.802,0.461,0,11,0.109,-12.367,0,0.302,90.995,4,0.74,Da Brat,Funkdafied,90's Hip-Hop Don't Stop
+On & On,52,225973,0.0534,0.758,0.408,0.00268,4,0.296,-10.751,1,0.159,80.485,4,0.367,Erykah Badu,Baduizm - Special Edition,90's Hip-Hop Don't Stop
+Murder Was The Case (Death After Visualizing Eternity) (feat. Dat Nigga Daz),39,218186,0.00561,0.4,0.841,0,11,0.338,-5.368,1,0.148,91.162,4,0.62,The Notorious B.I.G.,Bad Boy 20th Anniversary Box Set Edition,90's Hip-Hop Don't Stop
+Fever,60,252244,0.544,0.755,0.806,0.000114,0,0.0908,-4.618,0,0.0479,98.008,4,0.892,WizKid,Fever,African Heat
+Master Groove,65,179439,0.554,0.833,0.804,0.000629,4,0.074,-3.742,0,0.0938,106.005,4,0.63,WizKid,Master Groove,African Heat
+Energy (Stay Far Away),73,199521,0.345,0.836,0.614,9.86E-05,8,0.088,-4.543,0,0.311,101.97,4,0.603,Skepta,Energy (Stay Far Away),African Heat
+KANA,62,207378,0.345,0.853,0.822,0.000114,10,0.13,-5.917,0,0.212,102.82,4,0.62,Olamide,KANA,African Heat
+Fake Love (feat. Duncan Mighty & WizKid),62,246792,0.28,0.873,0.651,0.000205,1,0.0782,-6.415,0,0.0664,106.036,4,0.833,Starboy,Fake Love (feat. Duncan Mighty & WizKid),African Heat
+"Soco (feat. Wizkid, Ceeza Milli, Spotless & Terri)",70,255608,0.594,0.841,0.644,0.00402,9,0.142,-3.284,0,0.083,108.003,4,0.881,Starboy,"Soco (feat. Wizkid, Ceeza Milli, Spotless & Terri)",African Heat
+Nowo,60,197851,0.237,0.793,0.721,2.94E-06,11,0.134,-5.256,0,0.0905,107.978,4,0.519,DJ Spinall,Nowo,African Heat
+Ma Lo,62,182857,0.424,0.788,0.721,2.86E-06,11,0.0897,-4.577,1,0.152,105.23,4,0.653,WizKid,Sugarcane,African Heat
+Manya,58,231272,0.324,0.82,0.605,2.33E-06,2,0.159,-7.676,1,0.0922,110.011,4,0.643,Mut4y,Manya,African Heat
+"My Love (feat. Major Lazer, WizKid, Dua Lipa)",73,228706,0.0453,0.728,0.811,2.07E-06,7,0.362,-4.278,1,0.0564,114.995,4,0.705,Wale,SHINE,African Heat
+Come Closer,67,211293,0.127,0.825,0.453,3.82E-06,4,0.0838,-7.429,0,0.227,99.974,4,0.496,WizKid,Sounds From The Other Side,African Heat
+Wine to the Top,52,219428,0.421,0.815,0.876,0,7,0.0728,-2.891,0,0.207,104.981,4,0.898,Vybz Kartel,World Fete Riddim,African Heat
+Daddy Yo,55,160293,0.234,0.819,0.839,1.74E-05,6,0.137,-3.663,0,0.0682,98.968,4,0.81,WizKid,Sounds From The Other Side,African Heat
+One Dance,85,173986,0.00842,0.796,0.61,0.00286,1,0.351,-5.857,1,0.0516,103.99,4,0.391,Drake,Views,African Heat
+Soweto Baby (feat. Wizkid & DJ Buckz),52,258000,0.292,0.889,0.728,4.09E-06,4,0.0748,-6.995,0,0.141,120.016,4,0.767,DJ Maphorisa,Soweto Baby (feat. DJ Buckz & Wizkid),African Heat
+Final (Baba Nla),54,160000,0.163,0.793,0.726,0,8,0.0934,-6.693,0,0.082,105.059,4,0.902,WizKid,Final (Baba Nla) - Single,African Heat
+Bend Down Pause,50,197276,0.22,0.895,0.956,0,4,0.34,-2.599,1,0.182,100.03,4,0.814,Runtown,Bend Down Pause,African Heat
+Ojuelegba,59,216242,0.146,0.644,0.748,0.000346,9,0.203,-5.862,0,0.0349,100.037,4,0.901,WizKid,Ayo,African Heat
+In My Bed,50,230557,0.00424,0.851,0.77,0,11,0.0342,-5.667,0,0.0486,125.006,4,0.658,WizKid,Ayo,African Heat
+Show You the Money,51,191506,0.513,0.786,0.77,1.55E-06,8,0.0892,-4.884,0,0.0768,122.997,4,0.891,WizKid,Ayo,African Heat
+On Top Your Matter,47,284814,0.0536,0.706,0.966,0,0,0.0566,-1.266,1,0.0564,124.003,4,0.97,WizKid,On Top Your Matter,African Heat
+Ginger (feat. Wizkid),47,232120,0.0596,0.777,0.897,0,1,0.29,-2.871,1,0.0516,126.018,4,0.964,L.A.X,Ginger (feat. Wizkid),African Heat
+Pullover (feat. Wiz-Kid),47,187866,0.036,0.819,0.89,0,2,0.207,-2.265,1,0.064,130.044,4,0.964,KCee,Pullover (feat. Wiz-Kid),African Heat
+Jaiye Jaiye (feat. Femi Kuti),48,246126,0.24,0.646,0.978,0,9,0.11,-2.663,0,0.0602,118.004,4,0.789,WizKid,Ayo,African Heat
+Caro (feat. Lax),52,246832,0.0214,0.698,0.944,4.68E-05,9,0.485,-2.48,0,0.0628,122.183,4,0.915,WizKid,Ayo,African Heat
+Slow Down (feat. Wiz Kid),49,261546,0.116,0.52,0.717,0,6,0.249,-3.006,0,0.389,135.55,5,0.704,R2Bees,Refuse to Be Broke: Da Revolution 2,African Heat
+The Matter (feat. Wizkid),49,198058,0.224,0.697,0.841,0,2,0.336,-6.782,1,0.271,103.07,4,0.808,Maleek Berry,The Matter (feat. Wizkid),African Heat
+Dance for Me,44,158175,0.331,0.665,0.806,0,11,0.396,-5.622,1,0.0754,124.99,4,0.421,WizKid,Dance for Me,African Heat
+Pakurumo,47,212005,0.525,0.879,0.737,0.00576,2,0.268,-5.412,1,0.0421,119.99,4,0.967,WizKid,Superstar,African Heat
+Love My Baby,46,246828,0.301,0.746,0.841,0,4,0.412,-5.282,1,0.215,121.043,4,0.707,WizKid,Superstar,African Heat
+Tease Me / Bad Guys,47,188817,0.00376,0.613,0.951,0,9,0.0774,-2.305,0,0.261,104.427,4,0.93,WizKid,Superstar,African Heat
+When The Sun Goes Down,18,200013,0.0346,0.349,0.87,0,11,0.129,-4.746,0,0.183,169.649,4,0.417,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",Alternative 00s
+A-Punk,71,137760,0.0102,0.551,0.821,0.0438,2,0.153,-4.489,1,0.0539,174.923,4,0.842,Vampire Weekend,Vampire Weekend,Alternative 00s
+Golden Skans,31,165120,0.000418,0.463,0.836,7.38E-06,2,0.25,-2.776,0,0.0381,141.955,4,0.713,Klaxons,Myths Of The Near Future,Alternative 00s
+Last Nite,73,193506,0.0285,0.624,0.91,0.000198,0,0.0789,-5.703,1,0.0297,104.042,4,0.767,The Strokes,Is This It,Alternative 00s
+Paper Planes,73,205200,0.0254,0.541,0.854,0.000125,2,0.651,-6.196,1,0.155,86.044,4,0.454,M.I.A.,Kala,Alternative 00s
+Young Folks,71,276693,0.0164,0.699,0.812,0.000763,0,0.105,-6.005,1,0.0377,138.185,4,0.662,Peter Bjorn and John,Writer's Block,Alternative 00s
+Take Me Out,73,237026,0.000409,0.277,0.663,0.00051,4,0.136,-8.821,0,0.0377,104.561,4,0.527,Franz Ferdinand,Franz Ferdinand,Alternative 00s
+We Are Your Friends - Radio Edit,57,164960,0.0102,0.646,0.977,0.769,9,0.201,1.585,0,0.167,123.016,4,0.606,Justice,Playlist: Dance,Alternative 00s
+Standing In the Way of Control,58,256399,0.00694,0.697,0.919,0.0621,7,0.203,-6.174,1,0.029,118.341,4,0.943,Gossip,Standing in the Way of Control,Alternative 00s
+Heads Will Roll,29,221000,0.000187,0.562,0.903,0.0939,8,0.298,-4.46,0,0.0296,132.009,4,0.791,Yeah Yeah Yeahs,It's Blitz!,Alternative 00s
+1901,66,193120,0.0588,0.607,0.835,4.71E-05,0,0.195,-5.427,1,0.0415,144.087,4,0.719,Phoenix,Wolfgang Amadeus Phoenix,Alternative 00s
+Kids,78,302840,0.00076,0.451,0.931,0.0049,9,0.361,-3.871,1,0.0719,122.961,4,0.172,MGMT,Oracular Spectacular,Alternative 00s
+Banquet,58,200400,0.000156,0.591,0.939,0.0111,10,0.0882,-4.911,0,0.0533,150.249,4,0.856,Bloc Party,Silent Alarm,Alternative 00s
+Men's Needs,56,195697,0.000106,0.548,0.94,6.44E-05,1,0.0696,-2.274,0,0.0472,121.994,4,0.783,The Cribs,"Men's Needs, Women's Needs, Whatever (Standard Version)",Alternative 00s
+Seven Nation Army,81,231920,0.00666,0.745,0.466,0.35,4,0.272,-7.62,0,0.0864,123.889,4,0.303,The White Stripes,Elephant,Alternative 00s
+Molly's Chambers,49,134906,0.232,0.596,0.899,3.98E-06,11,0.212,-3.967,1,0.0504,146.448,4,0.939,Kings of Leon,Youth And Young Manhood,Alternative 00s
+Don't Look Back into the Sun,56,178266,0.00561,0.237,0.842,0.000882,0,0.294,-4.05,0,0.093,89.744,4,0.602,The Libertines,Time for Heroes - The Best of The Libertines,Alternative 00s
+Always Like This,27,245640,0.441,0.659,0.591,0.000861,1,0.0862,-6.713,1,0.0313,121.14,4,0.707,Bombay Bicycle Club,I Had The Blues But I Shook Them Loose,Alternative 00s
+Two Weeks,70,243160,0.289,0.537,0.712,0.00568,5,0.08,-5.597,1,0.0286,159.871,4,0.704,Grizzly Bear,Veckatimest,Alternative 00s
+Do It All Over Again,43,226426,0.00151,0.421,0.757,0.0422,0,0.116,-6.034,1,0.0324,140.102,4,0.672,Spiritualized,Let It Come Down,Alternative 00s
+Bohemian Like You,67,211706,0.00315,0.584,0.931,0.772,9,0.133,-6.158,1,0.0344,131.275,4,0.694,The Dandy Warhols,Thirteen Tales From Urban Bohemia,Alternative 00s
+"Steady, As She Goes",10,215293,0.00882,0.53,0.601,0.0211,9,0.083,-4.364,1,0.112,123.009,4,0.572,The Raconteurs,Broken Boy Soldiers,Alternative 00s
+Float On,73,208466,0.013,0.649,0.888,2.23E-06,6,0.0888,-4.807,1,0.0293,100.975,4,0.553,Modest Mouse,Good News For People Who Love Bad News,Alternative 00s
+I'm Not Gonna Teach Your Boyfriend How To Dance With You,47,217733,0.000304,0.48,0.929,0,0,0.366,-4.082,1,0.0476,125.321,4,0.799,Black Kids,Partie Traumatic,Alternative 00s
+Hang Me Up To Dry,63,218786,0.0241,0.509,0.916,0.000402,2,0.36,-2.793,1,0.0324,92.432,4,0.672,Cold War Kids,Robbers & Cowards,Alternative 00s
+Black And White Town,44,262896,0.000109,0.287,0.815,0.265,1,0.159,-6.594,1,0.0436,171.653,4,0.302,Doves,Black And White Town,Alternative 00s
+Ready For The Floor,9,234240,0.00903,0.764,0.759,0,1,0.0746,-5.443,0,0.0413,128.999,4,0.937,Hot Chip,Made In The Dark,Alternative 00s
+Apply Some Pressure,61,200346,0.000719,0.378,0.953,2.89E-05,9,0.0936,-3.632,1,0.138,167.808,4,0.512,Maximo Park,A Certain Trigger,Alternative 00s
+Rebellion (Lies),11,310893,0.00787,0.4,0.934,0.513,8,0.338,-5.696,1,0.0344,127.09,4,0.731,Arcade Fire,Funeral,Alternative 00s
+Jump In The Pool,54,217040,0.00883,0.419,0.924,0.0229,9,0.313,-4.404,1,0.116,139.977,4,0.362,Friendly Fires,Friendly Fires,Alternative 00s
+Balloons,43,180666,0.0826,0.582,0.984,0.153,9,0.0713,-1.962,0,0.0529,153.943,4,0.771,Foals,Balloons,Alternative 00s
+Skinny Love,69,238532,0.842,0.592,0.256,2.38E-06,4,0.088,-14.031,0,0.0449,76.361,4,0.103,Bon Iver,"For Emma, Forever Ago",Alternative 00s
+Heartbeats,7,231800,0.0193,0.646,0.751,7.85E-05,8,0.113,-4.876,1,0.032,87.979,4,0.447,The Knife,Deep Cuts,Alternative 00s
+Sleepyhead,67,174760,0.0892,0.568,0.719,1.84E-06,8,0.233,-5.406,1,0.0354,106.036,4,0.539,Passion Pit,Manners,Alternative 00s
+Cheap and Cheerful,5,146680,0.00117,0.886,0.727,0.000608,11,0.0824,-5.396,0,0.0832,128.962,4,0.679,The Kills,Midnight Boom,Alternative 00s
+Such Great Heights,44,266346,0.00907,0.653,0.818,0.23,5,0.0703,-8.125,1,0.047,174.984,4,0.198,The Postal Service,Give Up,Alternative 00s
+HoppÃ­polla,44,270013,0.0356,0.312,0.543,0.225,11,0.128,-9.875,1,0.0308,140.109,4,0.178,Sigur RÃ³s,Takk...,Alternative 00s
+Obstacle 1,50,251293,5.18E-05,0.376,0.938,0.574,5,0.0705,-4.9,1,0.0618,120.514,4,0.385,Interpol,Turn On The Bright Lights,Alternative 00s
+Ladyflash,47,256026,0.000278,0.562,0.959,0.534,3,0.17,-5.288,1,0.0543,115.406,4,0.711,The Go! Team,"Thunder, Lightning, Strike",Alternative 00s
+This Is Love,41,227533,5.33E-05,0.589,0.705,1.22E-05,0,0.161,-5.236,1,0.0292,112.402,4,0.394,PJ Harvey,"Stories From The City, Stories From The Sea",Alternative 00s
+Feel Good Hit Of The Summer,18,163266,0.0114,0.326,0.929,0.000979,11,0.198,-5.754,1,0.174,164.984,4,0.521,Queens of the Stone Age,Rated R - Deluxe Edition,Alternative 00s
+You Can't Hurry Love,44,122706,0.00751,0.349,0.723,0.00575,2,0.325,-5.189,1,0.0342,138.804,4,0.775,The Concretes,The Concretes,Alternative 00s
+Australia,42,236733,0.00442,0.434,0.842,0.000142,4,0.308,-4.468,1,0.038,169.935,4,0.838,The Shins,Wincing the Night Away,Alternative 00s
+Mykonos,17,275306,0.417,0.391,0.45,0.000335,11,0.14,-9.251,1,0.0306,121.946,4,0.344,Fleet Foxes,Sun Giant,Alternative 00s
+Eple,49,216640,0.00236,0.673,0.76,0.21,6,0.114,-8.381,1,0.0456,106.48,4,0.795,RÃ¶yksopp,Melody AM,Alternative 00s
+Wolf Like Me,61,277466,0.00175,0.357,0.787,0.00611,7,0.115,-4.979,1,0.0419,175.882,4,0.191,TV On The Radio,Return To Cookie Mountain,Alternative 00s
+Daniel,56,251120,0.0118,0.593,0.658,0.0204,8,0.137,-8.393,0,0.0364,135.053,4,0.422,Bat For Lashes,Two Suns,Alternative 00s
+Do You Realize??,62,213173,0.006,0.464,0.797,0.000304,0,0.392,-5.244,1,0.0333,129.964,4,0.547,The Flaming Lips,Yoshimi Battles The Pink Robots (U.S. Version),Alternative 00s
+Let's Make Love And Listen To Death From Above - Dan Carey Mix; Remastered Version,44,213159,0.0819,0.688,0.804,0.00813,10,0.325,-4.313,0,0.0322,119.991,4,0.742,CSS,Let's Make Love and Listen To Death From Above (4 Track DMD),Alternative 00s
+The Underdog,51,222320,0.0602,0.693,0.646,0.00132,7,0.678,-6.484,1,0.0313,145.116,4,0.89,Spoon,Ga Ga Ga Ga Ga,Alternative 00s
+The Rat,58,262106,0.000151,0.176,0.917,0.0728,6,0.235,-4.884,0,0.0635,168.197,4,0.325,The Walkmen,Bows + Arrows,Alternative 00s
+Son Of Sam,11,184333,0.00698,0.519,0.783,0.000503,9,0.238,-6.261,1,0.0254,96.019,4,0.259,Elliott Smith,Figure 8,Alternative 00s
+A Minha Menina,36,170733,0.806,0.53,0.809,0.0122,9,0.215,-8.222,0,0.0514,98.88,4,0.804,The Bees,Sunshine Hit Me,Alternative 00s
+Everything In Its Right Place,65,251426,0.699,0.293,0.462,0.0444,5,0.0954,-11.412,0,0.0453,124.004,5,0.0623,Radiohead,Kid A,Alternative 00s
+All My Friends - Edit,46,366841,0.0818,0.675,0.92,0.432,9,0.14,-3.823,1,0.0343,142.599,4,0.936,LCD Soundsystem,All My Friends,Alternative 00s
+Lovely Head,5,237173,0.516,0.472,0.626,0.559,5,0.741,-8.485,0,0.074,108.946,4,0.0705,Goldfrapp,Wonderful Electric (Live In London),Alternative 00s
+Juxtapozed With U,48,188706,0.109,0.525,0.833,1.05E-05,9,0.181,-6.284,1,0.0522,82.842,4,0.931,Super Furry Animals,Rings Around The World,Alternative 00s
+Whole New Way,44,238381,0.0713,0.559,0.694,0.893,7,0.264,-4.957,1,0.0306,153.977,4,0.788,The Horrors,Whole New Way,Alternative 00s
+Once And Never Again,39,175920,0.00357,0.523,0.85,0,7,0.281,-4.653,1,0.033,114.876,4,0.792,The Long Blondes,Someone To Drive You Home,Alternative 00s
+Abel,50,217026,0.000348,0.342,0.944,0.257,0,0.0848,-3.873,1,0.0489,158.805,4,0.413,The National,Alligator,Alternative 00s
+Ghosts,57,179960,0.376,0.463,0.368,0,9,0.149,-11.546,1,0.048,141.974,4,0.75,Laura Marling,Alas I Cannot Swim,Alternative 00s
+The Greatest,64,202560,0.738,0.508,0.362,0.000998,0,0.0922,-9.688,1,0.0262,107.459,4,0.328,Cat Power,The Greatest,Alternative 00s
+"Lloyd, I'm Ready To Be Heartbroken",50,231160,0.00878,0.329,0.857,0.0725,11,0.156,-3.681,1,0.0496,143.482,4,0.476,Camera Obscura,Let's Get Out Of This Country,Alternative 00s
+Fidelity,63,226680,0.52,0.923,0.518,0.000142,5,0.104,-6.008,1,0.0492,93.023,4,0.682,Regina Spektor,Begin To Hope,Alternative 00s
+My Girls,52,340786,0.256,0.508,0.953,0.0445,4,0.929,-6.031,0,0.0806,119.973,4,0.555,Animal Collective,Merriweather Post Pavilion,Alternative 00s
+Blind - Radio Edit,61,345560,0.00542,0.716,0.914,0.000218,7,0.0504,-6.907,0,0.0341,118.579,4,0.69,Hercules & Love Affair,Blind,Alternative 00s
+Out of Time,50,233373,0.0424,0.529,0.455,0.00364,0,0.364,-8.603,1,0.0274,138.678,4,0.318,Blur,Think Tank,Alternative 00s
+House Of Jealous Lovers,45,304786,0.000333,0.729,0.761,0.368,1,0.308,-4.277,1,0.0354,130.007,4,0.763,The Rapture,Echoes,Alternative 00s
+Up With People,4,359360,0.339,0.558,0.539,0.217,9,0.133,-12.86,1,0.0296,136.049,4,0.496,Lambchop,Nixon,Alternative 00s
+Romantic Rights,45,195106,0.00316,0.516,0.961,0,5,0.404,-5.37,0,0.157,150.147,4,0.458,Death From Above 1979,"You're A Woman, I'm A Machine",Alternative 00s
+Lovely Allen,41,271040,0.0493,0.537,0.951,0.867,5,0.157,-6.629,1,0.104,116.244,4,0.0964,Holy Fuck,LP,Alternative 00s
+Pull Shapes,42,178453,0.0326,0.516,0.94,0.000286,7,0.0433,-1.909,1,0.0672,144.016,4,0.767,The Pipettes,We Are The Pipettes,Alternative 00s
+Teen Angst,8,303133,2.41E-05,0.32,0.863,0.14,11,0.257,-5.089,0,0.0447,149.998,4,0.0991,M83,Before the Dawn Heals Us,Alternative 00s
+Forget Myself,10,322346,0.000671,0.535,0.932,0.00227,2,0.225,-2.954,1,0.0282,97.48,4,0.554,Elbow,Leaders Of The Free World,Alternative 00s
+The Skin Of My Yellow Country Teeth,4,343773,0.00732,0.455,0.972,0.00026,0,0.111,-5.142,1,0.0608,141.602,4,0.391,Clap Your Hands Say Yeah,Clap Your Hands Say Yeah,Alternative 00s
+Hope There's Someone,54,261200,0.979,0.294,0.184,0.0115,6,0.143,-10.421,1,0.0405,141.245,1,0.0812,Antony and the Johnsons,I Am A Bird Now,Alternative 00s
+Nothing Ever Happened,39,350920,1.94E-05,0.264,0.841,0.834,2,0.109,-6.31,1,0.0321,150.102,4,0.716,Deerhunter,Microcastle,Alternative 00s
+Williams Blood - Edit,33,242400,0.00981,0.714,0.438,0.000495,6,0.193,-14.753,0,0.0355,103.997,4,0.587,Grace Jones,Williams Blood,Alternative 00s
+Single Again,41,231253,0.102,0.852,0.736,0.00837,4,0.181,-3.863,1,0.0719,132.064,4,0.926,The Fiery Furnaces,EP,Alternative 00s
+Atlas,48,427200,0.000103,0.761,0.721,0.0761,2,0.103,-5.529,1,0.0392,135.181,4,0.39,Battles,Mirrored,Alternative 00s
+Party Crowd,56,198440,0.0358,0.779,0.633,0,7,0.0901,-11.643,1,0.0305,127.167,4,0.7,David Lee Murphy,Out With A Bang,Country's Greatest Hits_ The '90s
+My Maria,66,208106,0.06,0.673,0.842,0.000257,3,0.184,-4.627,1,0.0365,125.571,4,0.897,Brooks & Dunn,#1s ... and then some,Country's Greatest Hits_ The '90s
+I'm From The Country - Single Version,59,213973,0.246,0.678,0.893,0,2,0.268,-3.95,1,0.0452,129.579,4,0.959,Tracy Byrd,I'm From The Country,Country's Greatest Hits_ The '90s
+The Shake,48,213333,0.0755,0.677,0.892,6.60E-06,9,0.202,-5.709,1,0.0527,145.921,4,0.898,Neal McCoy,Be Good At It,Country's Greatest Hits_ The '90s
+Straight Tequila Night,57,172756,0.137,0.638,0.661,0,9,0.245,-10.134,1,0.0341,109.268,4,0.464,John Anderson,Greatest Hits,Country's Greatest Hits_ The '90s
+If I Know Me,52,161800,0.634,0.544,0.333,0.000632,4,0.102,-11.028,1,0.0272,134.638,4,0.183,George Strait,50 Number Ones,Country's Greatest Hits_ The '90s
+Sold (The Grundy County Auction Incident),60,151506,0.133,0.766,0.859,0,2,0.307,-7.408,1,0.0343,115.629,4,0.828,John Michael Montgomery,Rhino Hi-Five: John Michael Montgomery,Country's Greatest Hits_ The '90s
+Then What?,47,183706,0.169,0.564,0.806,0,4,0.0663,-8.227,1,0.063,176.405,4,0.633,Clay Walker,Top 10,Country's Greatest Hits_ The '90s
+Bigger Than the Beatles,48,235440,0.182,0.716,0.84,0,7,0.0413,-6.21,1,0.0325,119.631,4,0.635,Joe Diffie,Greatest Hits,Country's Greatest Hits_ The '90s
+Time Marches On,60,185360,0.563,0.856,0.517,0.000164,6,0.144,-9.232,0,0.0293,118.399,4,0.479,Tracy Lawrence,Time Marches On,Country's Greatest Hits_ The '90s
+She's Got It All,56,205093,0.093,0.709,0.811,1.08E-05,7,0.1,-6.603,1,0.0323,132.728,4,0.735,Kenny Chesney,I Will Stand,Country's Greatest Hits_ The '90s
+Guys Do It All the Time,47,191800,0.0594,0.551,0.794,2.01E-05,0,0.231,-5.995,1,0.0341,165.813,4,0.587,Mindy McCready,Ten Thousand Angels,Country's Greatest Hits_ The '90s
+Single White Female,49,197880,0.354,0.533,0.671,0,6,0.0702,-8.066,1,0.0303,178.101,4,0.887,Chely Wright,Single White Female,Country's Greatest Hits_ The '90s
+Baby Likes To Rock It,48,236466,0.165,0.573,0.946,0.00028,5,0.13,-6.178,1,0.0369,79.966,4,0.964,The Tractors,The Tractors,Country's Greatest Hits_ The '90s
+Wish I Didn't Know Now,50,206840,0.448,0.799,0.707,0.000125,7,0.289,-8.464,1,0.0402,116.922,4,0.822,Toby Keith,Toby Keith,Country's Greatest Hits_ The '90s
+Here's A Quarter [Call Someone Who Cares],59,152640,0.196,0.654,0.537,0,7,0.119,-8.067,1,0.0257,112.437,3,0.597,Travis Tritt,Greatest Hits - From The Beginning,Country's Greatest Hits_ The '90s
+XXX's And OOO's (An American Girl),48,167840,0.178,0.706,0.728,0,0,0.2,-5.726,1,0.0323,125.798,4,0.696,Trisha Yearwood,Greatest Hits,Country's Greatest Hits_ The '90s
+Every Light In The House,59,179600,0.539,0.637,0.472,0,5,0.446,-7.295,1,0.0271,129.236,4,0.349,Trace Adkins,Dreamin' Out Loud,Country's Greatest Hits_ The '90s
+Sticks And Stones,57,216706,0.597,0.644,0.667,0,7,0.12,-5.741,1,0.0306,125.86,4,0.412,Tracy Lawrence,The Very Best Of Tracy Lawrence,Country's Greatest Hits_ The '90s
+The Night The Lights Went Out In Georgia,60,257266,0.526,0.591,0.513,4.50E-06,7,0.104,-11.587,0,0.0858,86.063,4,0.36,Reba McEntire,For My Broken Heart,Country's Greatest Hits_ The '90s
+It Matters To Me,54,197666,0.567,0.613,0.355,0,6,0.0909,-8.218,1,0.0247,135.622,4,0.129,Faith Hill,It Matters To Me,Country's Greatest Hits_ The '90s
+Down at the Twist and Shout,40,201146,0.452,0.572,0.953,0,9,0.0313,-4.355,1,0.0625,192.304,4,0.972,Mary Chapin Carpenter,Playlist: The Very Best Of Mary Chapin Carpenter,Country's Greatest Hits_ The '90s
+Strawberry Wine,61,290466,0.302,0.558,0.435,0,1,0.0351,-6.812,1,0.0264,122.385,3,0.199,Deana Carter,The Deana Carter Collection,Country's Greatest Hits_ The '90s
+She's In Love With The Boy,61,245786,0.544,0.747,0.803,3.54E-06,3,0.0938,-4.74,1,0.0307,125.016,4,0.746,Trisha Yearwood,Love Songs,Country's Greatest Hits_ The '90s
+Put Yourself In My Shoes,43,193093,0.58,0.737,0.41,0,9,0.25,-11.088,1,0.0353,104.647,4,0.397,Clint Black,Greatest Hits,Country's Greatest Hits_ The '90s
+Trashy Women,51,195706,0.0468,0.636,0.824,0,9,0.139,-5.535,1,0.0344,142.553,4,0.872,Confederate Railroad,Greatest Hits,Country's Greatest Hits_ The '90s
+Check Yes Or No,67,200666,0.0717,0.71,0.538,3.97E-06,5,0.0367,-12.576,1,0.0344,111.503,4,0.698,George Strait,Strait Out Of The Box,Country's Greatest Hits_ The '90s
+"Honey, I'm Home",59,213200,0.12,0.645,0.747,0,4,0.135,-5.747,1,0.0888,80.287,4,0.815,Shania Twain,Come On Over,Country's Greatest Hits_ The '90s
+Nobody Wins,45,210746,0.311,0.66,0.696,0,7,0.165,-8.971,1,0.033,120.898,4,0.773,Radney Foster,"Del Rio, Tx 1959",Country's Greatest Hits_ The '90s
+If I Didn't Have You,51,186746,0.164,0.674,0.578,0,4,0.103,-10.919,1,0.0663,172.498,4,0.961,Randy Travis,On The Other Hand - All The Number Ones,Country's Greatest Hits_ The '90s
+In a Different Light,48,205733,0.146,0.462,0.485,2.24E-06,5,0.0604,-7.533,1,0.0247,168.374,4,0.506,Doug Stone,Super Hits,Country's Greatest Hits_ The '90s
+Just To See You Smile,62,215173,0.127,0.492,0.823,0,6,0.0523,-8.526,1,0.0297,94.342,4,0.702,Tim McGraw,Everywhere,Country's Greatest Hits_ The '90s
+Little Bitty,53,158626,0.151,0.571,0.818,0,4,0.348,-6.539,1,0.0415,163.045,4,0.728,Alan Jackson,Everything I Love,Country's Greatest Hits_ The '90s
+Brand New Man,60,179573,0.0904,0.642,0.762,1.25E-06,7,0.101,-4.355,1,0.0451,127.513,4,0.647,Brooks & Dunn,#1s ... and then some,Country's Greatest Hits_ The '90s
+"Live, Laugh, Love",42,246266,0.195,0.647,0.746,0,2,0.0271,-10.597,1,0.0437,98.991,4,0.946,Clay Walker,"Live, Laugh, Love",Country's Greatest Hits_ The '90s
+Busy Man,40,197266,0.112,0.586,0.565,0,7,0.234,-9.867,1,0.0409,163.819,4,0.511,Billy Ray Cyrus,Shot Full Of Love,Country's Greatest Hits_ The '90s
+Should've Been A Cowboy,65,211306,0.471,0.619,0.672,3.15E-06,7,0.211,-7.786,1,0.0356,133.402,4,0.694,Toby Keith,Toby Keith,Country's Greatest Hits_ The '90s
+No One Else On Earth,49,255400,0.188,0.775,0.861,4.20E-06,0,0.199,-7.113,1,0.0295,98.649,4,0.964,Wynonna,Collection,Country's Greatest Hits_ The '90s
+No Doubt About It,49,227640,0.22,0.621,0.469,3.34E-05,4,0.067,-10.438,1,0.0267,144.665,4,0.511,Neal McCoy,No Doubt About It,Country's Greatest Hits_ The '90s
+Tequila Talkin',44,204626,0.152,0.699,0.543,1.33E-06,9,0.156,-7.105,1,0.0231,99.235,4,0.561,Lonestar,Lonestar,Country's Greatest Hits_ The '90s
+Boot Scootin' Boogie,64,198226,0.22,0.656,0.817,0,11,0.306,-4.296,0,0.0435,130.446,4,0.862,Brooks & Dunn,#1s ... and then some,Country's Greatest Hits_ The '90s
+Hillbilly Shoes,45,192693,0.0332,0.655,0.837,0.00223,7,0.111,-6.072,1,0.0355,115.938,4,0.708,Montgomery Gentry,Tattoos & Scars,Country's Greatest Hits_ The '90s
+Gone Country,59,259893,0.131,0.681,0.719,1.65E-06,7,0.113,-5.918,1,0.0248,125.729,4,0.637,Alan Jackson,16 Biggest Hits,Country's Greatest Hits_ The '90s
+I'm Gonna Be Somebody - Remastered,50,245266,0.148,0.561,0.659,9.93E-06,7,0.106,-6.701,1,0.0267,76.49,4,0.554,Travis Tritt,The Essentials: Travis Tritt,Country's Greatest Hits_ The '90s
+Honky Tonk Attitude,43,228626,0.175,0.679,0.812,8.04E-06,5,0.1,-6.549,1,0.0266,140.467,4,0.775,Joe Diffie,Playlist: The Very Best Of Joe Diffie,Country's Greatest Hits_ The '90s
+Bubba Shot The Jukebox,52,185866,0.302,0.613,0.602,0,2,0.0821,-10.071,0,0.0508,82.681,4,0.855,Mark Chesnutt,20th Century Masters: The Millennium Collection: Best of Mark Chesnutt,Country's Greatest Hits_ The '90s
+You've Got to Stand for Something,61,182160,0.188,0.544,0.577,0,4,0.11,-9.842,1,0.0343,83.472,4,0.456,Aaron Tippin,Greatest Hits And Then Some,Country's Greatest Hits_ The '90s
+How Long Gone,48,219266,0.0246,0.611,0.767,0.00182,5,0.401,-4.569,1,0.026,113.962,4,0.736,Brooks & Dunn,#1s ... and then some,Country's Greatest Hits_ The '90s
+I'm in a Hurry (And Don't Know Why),60,168640,0.198,0.757,0.69,0,9,0.078,-8.645,1,0.0286,128.654,4,0.867,Alabama,American Pride,Country's Greatest Hits_ The '90s
+Only Here For A Little While,42,214560,0.141,0.537,0.6,0,9,0.36,-6.675,1,0.028,172.541,4,0.774,Billy Dean,The Very Best Of Billy Dean,Country's Greatest Hits_ The '90s
+Better Class Of Losers,48,160360,0.194,0.59,0.686,0,7,0.2,-6.998,1,0.0364,179.387,4,0.733,Randy Travis,High Lonesome,Country's Greatest Hits_ The '90s
+Take It Easy - 2006 Remastered Version,52,213706,0.0116,0.632,0.876,0,7,0.0537,-5.21,1,0.0276,140.967,4,0.738,Travis Tritt,The Very Best Of Travis Tritt,Country's Greatest Hits_ The '90s
+How Forever Feels,55,188200,0.0986,0.723,0.674,1.83E-05,7,0.279,-7.427,1,0.0297,124.9,4,0.61,Kenny Chesney,Everywhere We Go,Country's Greatest Hits_ The '90s
+Carrying Your Love With Me,62,232426,0.235,0.63,0.473,0,10,0.0589,-10.526,1,0.0269,138.218,4,0.357,George Strait,Carrying Your Love With Me,Country's Greatest Hits_ The '90s
+Neon Moon,66,263760,0.554,0.702,0.632,0,9,0.127,-6.508,1,0.0247,102.404,4,0.457,Brooks & Dunn,#1s ... and then some,Country's Greatest Hits_ The '90s
+Wild One,52,165013,0.185,0.694,0.654,0,11,0.283,-9.148,1,0.0322,135.787,4,0.689,Faith Hill,Take Me As I Am,Country's Greatest Hits_ The '90s
+Wide Open Spaces,63,223832,0.577,0.563,0.544,0,4,0.128,-6.102,1,0.0306,179.351,4,0.602,Dixie Chicks,Wide Open Spaces,Country's Greatest Hits_ The '90s
+She Don't Know She's Beautiful,61,174626,0.35,0.764,0.646,0,9,0.0823,-9.349,1,0.0305,116.115,4,0.886,Sammy Kershaw,Haunted Heart,Country's Greatest Hits_ The '90s
+Summertime Blues,54,192093,0.374,0.395,0.862,3.29E-05,7,0.209,-6.837,1,0.0426,80.716,4,0.964,Alan Jackson,16 Biggest Hits,Country's Greatest Hits_ The '90s
+He Ain't Worth Missing,46,184693,0.397,0.768,0.774,0,7,0.0468,-4.455,1,0.0346,101.153,4,0.925,Toby Keith,Toby Keith 35 Biggest Hits,Country's Greatest Hits_ The '90s
+Perfect Love - Single Version,38,177533,0.0233,0.755,0.599,0,5,0.166,-6.282,1,0.0331,129.854,4,0.795,Trisha Yearwood,(Songbook) A Collection Of Hits,Country's Greatest Hits_ The '90s
+"Love, Me",52,231506,0.742,0.686,0.234,0,0,0.145,-12.646,1,0.0295,106.581,4,0.342,Collin Raye,All I Can Be,Country's Greatest Hits_ The '90s
+The Keeper Of The Stars,48,247626,0.529,0.572,0.261,1.13E-06,2,0.145,-12.83,1,0.025,78.094,4,0.0669,Tracy Byrd,No Ordinary Man,Country's Greatest Hits_ The '90s
+Shut Up and Kiss Me,38,220573,0.571,0.778,0.75,0.000101,9,0.121,-5.052,1,0.0417,119.932,4,0.961,Mary Chapin Carpenter,Playlist: The Very Best Of Mary Chapin Carpenter,Country's Greatest Hits_ The '90s
+Daddy's Money,52,183493,0.189,0.698,0.861,0,2,0.0602,-4.756,1,0.0289,134.726,4,0.941,Ricochet,Ricochet,Country's Greatest Hits_ The '90s
+Who's Cheatin' Who,52,241440,0.226,0.656,0.816,1.02E-05,7,0.264,-8.553,1,0.029,133.237,4,0.962,Alan Jackson,34 Number Ones,Country's Greatest Hits_ The '90s
+Indian Outlaw,58,182120,0.0364,0.664,0.739,4.99E-05,9,0.282,-7.229,1,0.0415,110.101,4,0.759,Tim McGraw,Not A Moment Too Soon,Country's Greatest Hits_ The '90s
+You Ain't Much Fun,46,146373,0.338,0.759,0.805,0,9,0.375,-3.666,1,0.0372,138.407,4,0.848,Toby Keith,Toby Keith 35 Biggest Hits,Country's Greatest Hits_ The '90s
+No One Needs To Know,52,183960,0.108,0.663,0.525,0,7,0.349,-9.674,1,0.0331,134.748,4,0.731,Shania Twain,The Woman In Me,Country's Greatest Hits_ The '90s
+It Ain't Nothin',40,244066,0.548,0.79,0.455,0.000105,9,0.108,-11.039,1,0.0536,119.49,4,0.405,Keith Whitley,16 Biggest Hits,Country's Greatest Hits_ The '90s
+What Mattered Most,44,221426,0.415,0.529,0.509,0,0,0.171,-8.926,1,0.0253,142.311,4,0.27,Ty Herndon,What Mattered Most,Country's Greatest Hits_ The '90s
+Hard Workin' Man,52,178493,0.333,0.692,0.77,1.17E-06,0,0.0552,-9.361,1,0.0369,151.51,4,0.731,Brooks & Dunn,Hard Workin' Man,Country's Greatest Hits_ The '90s
+Wanted,49,177320,0.612,0.636,0.298,4.31E-06,5,0.162,-8.931,1,0.0268,89.613,3,0.276,Alan Jackson,Genuine: The Alan Jackson Story,Country's Greatest Hits_ The '90s
+Life's A Dance,60,188840,0.403,0.64,0.533,0,5,0.176,-9.846,1,0.0264,135.224,4,0.652,John Michael Montgomery,Greatest Hits,Country's Greatest Hits_ The '90s
+Fancy,58,296320,0.246,0.674,0.542,0,4,0.0735,-10.078,1,0.0904,94.988,4,0.497,Reba McEntire,Best Of/20th Century,Country's Greatest Hits_ The '90s
+You Were Mine,55,217807,0.342,0.542,0.346,0,9,0.283,-6.598,1,0.0296,139.856,4,0.173,Dixie Chicks,Wide Open Spaces,Country's Greatest Hits_ The '90s
+Small Town Saturday Night,56,177986,0.218,0.627,0.697,0,8,0.0733,-6.61,1,0.0266,154.086,4,0.933,Hal Ketchum,Past The Point Of Rescue,Country's Greatest Hits_ The '90s
+A Little Less Talk And A Lot More Action,50,170546,0.282,0.755,0.808,2.02E-06,9,0.11,-7.367,1,0.0374,124.976,4,0.933,Toby Keith,Toby Keith,Country's Greatest Hits_ The '90s
+Dust On The Bottle,68,224666,0.0248,0.737,0.609,4.26E-06,11,0.208,-11.121,1,0.0366,99.983,4,0.87,David Lee Murphy,Out With A Bang,Country's Greatest Hits_ The '90s
+Livin' On Love,57,228733,0.163,0.705,0.669,3.41E-06,9,0.0966,-5.974,1,0.0262,118.539,4,0.673,Alan Jackson,34 Number Ones,Country's Greatest Hits_ The '90s
+Brother Jukebox,46,184600,0.184,0.649,0.578,0.000772,1,0.175,-11.207,1,0.0262,141.084,4,0.896,Mark Chesnutt,Greatest Hits: Mark Chesnutt,Country's Greatest Hits_ The '90s
+One More Last Chance,51,191200,0.462,0.525,0.882,0,2,0.282,-8.624,1,0.0386,176.192,4,0.964,Vince Gill,I Still Believe In You,Country's Greatest Hits_ The '90s
+John Deere Green,60,273000,0.15,0.685,0.817,0,2,0.242,-5.683,1,0.0298,130.41,4,0.768,Joe Diffie,Greatest Hits,Country's Greatest Hits_ The '90s
+I'm Alright,61,199040,0.191,0.676,0.733,0,0,0.192,-7.745,1,0.0294,98.234,3,0.591,Jo Dee Messina,I'm Alright,Country's Greatest Hits_ The '90s
+Independence Day,52,206093,0.275,0.693,0.683,0.000101,9,0.0954,-4.575,1,0.0292,118.388,4,0.748,Martina McBride,Greatest Hits,Country's Greatest Hits_ The '90s
+"I Like It, I Love It",64,205706,0.0196,0.643,0.961,0,0,0.948,-5.298,1,0.0315,124.027,4,0.96,Tim McGraw,All I Want,Country's Greatest Hits_ The '90s
+Ready to Run,55,231293,0.245,0.644,0.644,0.00083,7,0.27,-7.542,1,0.0305,98.746,4,0.293,Dixie Chicks,Fly,Country's Greatest Hits_ The '90s
+Watermelon Crawl,63,181973,0.17,0.778,0.701,0,0,0.128,-9.327,1,0.0285,136.733,4,0.964,Tracy Byrd,No Ordinary Man,Country's Greatest Hits_ The '90s
+I Think About You,43,207133,0.227,0.706,0.716,0,0,0.111,-6.931,1,0.0251,120.75,4,0.839,Collin Raye,The Best Of Collin Raye: Direct Hits,Country's Greatest Hits_ The '90s
+Pickup Man,61,216693,0.434,0.709,0.757,0,7,0.336,-7.006,1,0.0408,140.664,4,0.852,Joe Diffie,Greatest Hits,Country's Greatest Hits_ The '90s
+How Your Love Makes Me Feel,45,245400,0.351,0.612,0.787,0,0,0.065,-8.119,1,0.0313,140.91,4,0.577,Diamond Rio,Greatest Hits,Country's Greatest Hits_ The '90s
+Dream Walkin',42,235626,0.351,0.702,0.784,0,5,0.0814,-5.056,1,0.0278,117.599,4,0.54,Toby Keith,Toby Keith 35 Biggest Hits,Country's Greatest Hits_ The '90s
+Down On The Farm,54,178866,0.115,0.721,0.735,0,5,0.0499,-11.849,0,0.0284,127.575,4,0.961,Tim McGraw,Not A Moment Too Soon,Country's Greatest Hits_ The '90s
+TRUE,44,214000,0.27,0.591,0.679,0.000418,7,0.131,-4.893,1,0.0255,115.346,4,0.386,George Strait,One Step At A Time,Country's Greatest Hits_ The '90s
+Two Sparrows In A Hurricane,44,249733,0.551,0.692,0.253,3.01E-06,10,0.102,-13.684,1,0.0289,104.123,4,0.22,Tanya Tucker,Love Songs,Country's Greatest Hits_ The '90s
+T-R-O-U-B-L-E - Remastered,48,181333,0.0121,0.3,0.965,0.000742,7,0.687,-6.724,1,0.0429,178.963,4,0.793,Travis Tritt,The Essentials: Travis Tritt,Country's Greatest Hits_ The '90s
+That's My Story,47,182960,0.538,0.642,0.834,0,5,0.108,-4.4,0,0.0982,137.875,4,0.645,Collin Raye,Extremes,Country's Greatest Hits_ The '90s
+Ain't That Lonely Yet - Remastered,44,200706,0.431,0.598,0.732,3.31E-06,5,0.1,-5.098,1,0.0259,106.92,4,0.549,Dwight Yoakam,The Very Best Of Dwight Yoakam,Country's Greatest Hits_ The '90s
+Lesson In Leavin',61,220200,0.273,0.612,0.804,0,7,0.311,-7.275,1,0.0543,80.771,4,0.841,Jo Dee Messina,I'm Alright,Country's Greatest Hits_ The '90s
+Any Man Of Mine,67,246760,0.207,0.592,0.725,0,8,0.148,-8.698,1,0.0412,78.235,4,0.784,Shania Twain,The Woman In Me,Country's Greatest Hits_ The '90s
+Kiss and Make Up,55,189173,0.0658,0.678,0.729,0,8,0.303,-4.188,1,0.137,99.895,4,0.643,Dua Lipa,Dua Lipa (Complete Edition),Pop Royalty
+Drew Barrymore,87,190471,0.493,0.763,0.572,0.00118,11,0.106,-7.312,0,0.0595,151.93,4,0.25,Bryce Vine,Drew Barrymore,Pop Royalty
+Sweet but Psycho,89,187436,0.0691,0.719,0.704,0,1,0.166,-4.724,1,0.0476,133.002,4,0.628,Ava Max,Sweet but Psycho,Pop Royalty
+Head Above Water,86,220850,0.0112,0.578,0.694,0,5,0.102,-5.351,1,0.0706,129.921,4,0.268,Avril Lavigne,Head Above Water,Pop Royalty
+Ring (feat. Kehlani),82,177139,0.049,0.767,0.543,0,1,0.115,-7.881,0,0.103,106.029,4,0.485,Cardi B,Invasion of Privacy,Pop Royalty
+My Blood,79,229120,0.0563,0.749,0.723,0.022,1,0.0977,-6.609,1,0.0432,108.999,4,0.674,Twenty One Pilots,My Blood And A Few Others From Trench,Pop Royalty
+Love Someone,87,205463,0.161,0.55,0.415,0,9,0.108,-6.557,0,0.052,172.065,4,0.274,Lukas Graham,Love Someone,Pop Royalty
+I'm Still Here,75,241910,0.00697,0.437,0.719,3.86E-05,6,0.0765,-4.569,0,0.0376,169.976,4,0.284,Sia,I'm Still Here,Pop Royalty
+Want To,86,211817,0.0788,0.572,0.691,0.000132,8,0.0619,-4.783,0,0.123,92.082,4,0.318,Dua Lipa,Want To,Pop Royalty
+8 Letters,72,190026,0.649,0.607,0.478,0,1,0.0928,-5.702,0,0.031,88.979,4,0.255,Why Don't We,8 Letters,Pop Royalty
+SLOW DANCING IN THE DARK,87,209273,0.544,0.515,0.479,0.00598,3,0.191,-7.458,1,0.0261,88.964,4,0.284,Joji,SLOW DANCING IN THE DARK,Pop Royalty
+Let You Love Me,90,190000,0.288,0.531,0.854,0,10,0.0773,-3.149,1,0.198,94.419,4,0.456,Rita Ora,Let You Love Me,Pop Royalty
+High Hopes,73,190946,0.193,0.579,0.904,0,5,0.064,-2.729,1,0.0618,82.014,4,0.681,Panic! At The Disco,High Hopes On Saturday Night,Pop Royalty
+Youngblood,90,203417,0.0169,0.596,0.854,0,7,0.124,-5.114,0,0.463,120.274,4,0.152,5 Seconds of Summer,Youngblood,Pop Royalty
+Don't Leave Me Alone (feat. Anne-Marie),89,183750,0.118,0.659,0.738,0,4,0.115,-5.072,0,0.0477,127.95,4,0.481,David Guetta,Don't Leave Me Alone (feat. Anne-Marie),Pop Royalty
+Electricity (with Dua Lipa),94,238173,0.0104,0.588,0.67,3.33E-06,0,0.338,-6.439,1,0.0473,118.159,4,0.505,Silk City,Electricity (with Dua Lipa),Pop Royalty
+More Than Friends (feat. Meghan Trainor),70,181360,0.366,0.451,0.528,0,2,0.0811,-6.984,1,0.0364,139.28,5,0.527,Jason Mraz,Know.,Pop Royalty
+I'm a Mess,74,195519,0.00281,0.63,0.694,0,11,0.0719,-6.257,0,0.0253,97.005,4,0.216,Bebe Rexha,I'm a Mess,Pop Royalty
+Up Now (feat. G-Eazy and Rich The Kid),72,198087,0.00294,0.956,0.544,0,1,0.104,-6.41,1,0.0822,104.011,4,0.127,Saweetie,Up Now (feat. G-Eazy and Rich The Kid),Pop Royalty
+Happy Now,91,207029,0.579,0.503,0.741,1.49E-06,4,0.0712,-5.128,1,0.047,88.335,3,0.458,Zedd,Happy Now,Pop Royalty
+Body,86,163216,0.0476,0.752,0.764,9.44E-05,1,0.0543,-4.399,1,0.038,121.958,4,0.582,Loud Luxury,Body,Pop Royalty
+Boys Like You - Sunrise Mix,44,211764,0.688,0.584,0.679,2.09E-06,2,0.232,-5.17,1,0.04,102.039,4,0.175,Anna Clendening,Boys Like You (Sunrise Mix),Pop Royalty
+All I Am,87,218868,0.0445,0.74,0.669,0,0,0.184,-5.199,1,0.0373,122.007,4,0.536,Jess Glynne,All I Am,Pop Royalty
+Girls Like You (feat. Cardi B),88,235545,0.568,0.851,0.541,0,0,0.13,-6.825,1,0.0505,124.959,4,0.448,Maroon 5,Red Pill Blues (Deluxe),Pop Royalty
+God is a woman,76,197573,0.0268,0.604,0.673,3.32E-05,1,0.187,-5.979,1,0.0545,144.971,4,0.287,Ariana Grande,God is a woman,Pop Royalty
+Tequila - R3HAB Remix,66,157424,0.0119,0.578,0.862,1.79E-05,8,0.0744,-3.059,0,0.0405,100.049,4,0.547,Dan + Shay,Tequila (R3HAB Remix),Pop Royalty
+In My Blood,69,211360,0.0582,0.622,0.709,0,5,0.126,-7.32,1,0.0669,140.018,4,0.488,Shawn Mendes,Shawn Mendes,Pop Royalty
+Me vs. Us,47,198948,0.145,0.741,0.555,0.000172,0,0.183,-8.087,1,0.044,119.971,4,0.447,Tayla Parx,Me vs. Us,Pop Royalty
+Never Be the Same - Radio Edit,64,227240,0.158,0.627,0.693,0.000102,0,0.115,-4.382,1,0.0856,129.801,4,0.245,Camila Cabello,Camila,Pop Royalty
+Delicate,84,232253,0.216,0.75,0.404,0.000357,9,0.0911,-10.178,0,0.0682,95.045,4,0.0499,Taylor Swift,reputation,Pop Royalty
+Natural,95,189466,0.216,0.448,0.612,0,2,0.08,-6.106,1,0.0708,97.773,4,0.213,Imagine Dragons,Natural,Pop Royalty
+Promises (with Sam Smith),98,213309,0.0119,0.781,0.768,4.91E-06,11,0.325,-5.991,1,0.0394,123.07,4,0.486,Calvin Harris,Promises (with Sam Smith),Pop Royalty
+No Brainer,94,260000,0.0733,0.552,0.76,0,0,0.0865,-4.706,1,0.342,135.702,5,0.639,DJ Khaled,No Brainer,Pop Royalty
+Without Me,92,201660,0.297,0.752,0.488,9.11E-06,6,0.0936,-7.05,1,0.0705,136.041,4,0.533,Halsey,Without Me,Pop Royalty
+MIA (feat. Drake),94,210367,0.0143,0.818,0.54,0.000512,6,0.099,-6.35,0,0.0544,97.064,4,0.174,Bad Bunny,MIA (feat. Drake),Pop Royalty
+Sunflower - Spider-Man: Into the Spider-Verse,66,158053,0.541,0.757,0.501,0,2,0.0718,-5.593,1,0.0466,89.931,4,0.91,Post Malone,Sunflower (Spider-Man: Into the Spider-Verse),Pop Royalty
+1999,81,189000,0.0227,0.739,0.742,1.39E-06,7,0.229,-4.586,1,0.0329,124.016,4,0.659,Charli XCX,1999,Pop Royalty
+when the party's over,78,199931,0.979,0.498,0.104,7.86E-05,1,0.0895,-14.08,0,0.0621,124.001,3,0.205,Billie Eilish,when the party's over,Pop Royalty
+You Say,83,274693,0.669,0.494,0.637,0,5,0.0882,-6.381,1,0.0333,147.924,4,0.1,Lauren Daigle,Look Up Child,Pop Royalty
+Fine China,77,142320,0.0484,0.656,0.542,0,7,0.106,-7.358,1,0.323,166.11,4,0.551,Future,Fine China,RapCaviar
+"Never Recover (Lil Baby & Gunna, Drake)",89,194732,0.0716,0.757,0.69,0,1,0.192,-5.327,0,0.282,132.064,4,0.914,Lil Baby,Drip Harder,RapCaviar
+Get Dripped (feat. Playboi Carti),0,158769,0.0987,0.955,0.492,0,8,0.417,-8.444,1,0.395,130.062,4,0.904,Lil Yachty,Nuthin' 2 Prove,RapCaviar
+ZEZE (feat. Travis Scott & Offset),91,225199,0.071,0.826,0.615,0,8,0.0965,-7.979,0,0.219,98.056,4,0.543,Kodak Black,ZEZE (feat. Travis Scott & Offset),RapCaviar
+Hard Work Pays Off,0,224506,0.327,0.736,0.482,0,4,0.229,-8.242,1,0.196,140.064,4,0.608,Future,Future & Juice WRLD Present... WRLD ON DRUGS,RapCaviar
+Noticed,91,165000,0.462,0.699,0.558,0,11,0.116,-7.622,1,0.0603,79.992,4,0.493,Lil Mosey,Noticed,RapCaviar
+SICKO MODE,97,312820,0.00513,0.834,0.73,0,8,0.124,-3.714,1,0.222,155.008,4,0.446,Travis Scott,ASTROWORLD,RapCaviar
+PASS OUT (feat. 21 Savage),85,224903,0.0403,0.917,0.786,0,11,0.195,-4.921,0,0.208,143.038,4,0.441,Quavo,QUAVO HUNCHO,RapCaviar
+Sin (feat. Jaden Smith),85,202533,0.00544,0.889,0.385,0,11,0.274,-11.767,0,0.165,125.995,4,0.235,Young Thug,On The Rvn,RapCaviar
+Drip Too Hard,91,145603,0.0945,0.9,0.653,0,1,0.528,-6.962,0,0.289,112.503,4,0.399,Lil Baby,Drip Too Hard,RapCaviar
+Mo Bamba,90,180897,0.268,0.738,0.629,0.00114,6,0.163,-4.882,0,0.0495,146.067,4,0.319,Sheck Wes,Mo Bamba,RapCaviar
+STOOPID,90,152000,0.13,0.733,0.63,0,11,0.162,-4.296,1,0.395,149.989,4,0.832,6ix9ine,STOOPID,RapCaviar
+No Stylist,91,192172,0.0215,0.765,0.704,0,5,0.227,-4.589,0,0.127,147.055,4,0.498,French Montana,No Stylist,RapCaviar
+Leave Me Alone,69,195637,0.107,0.792,0.743,0,7,0.183,-2.806,1,0.0851,150.024,4,0.742,Flipp Dinero,Leave Me Alone,RapCaviar
+REEL IT IN,87,121346,0.073,0.754,0.342,0,10,0.193,-8.677,0,0.0991,128.981,4,0.423,AminÃ©,ONEPOINTFIVE,RapCaviar
+LOSE IT (feat. Lil Baby),79,237654,0.0161,0.962,0.573,0,7,0.109,-5.924,1,0.308,125.035,4,0.728,Quavo,QUAVO HUNCHO,RapCaviar
+New Patek,90,343099,0.0367,0.85,0.785,0,8,0.155,-4.963,0,0.345,145.063,4,0.718,Lil Uzi Vert,New Patek,RapCaviar
+Wake Up in the Sky,92,204664,0.00381,0.8,0.578,0,4,0.359,-5.144,0,0.0485,143.01,4,0.367,Gucci Mane,Wake Up in the Sky,RapCaviar
+YOSEMITE,88,150043,0.283,0.785,0.554,3.40E-06,0,0.116,-6.571,1,0.0409,128.047,4,0.144,Travis Scott,ASTROWORLD,RapCaviar
+Mona Lisa (feat. Kendrick Lamar),92,324189,0.371,0.855,0.694,0,2,0.109,-4.393,1,0.169,122.078,4,0.49,Lil Wayne,Tha Carter V,RapCaviar
+"Nervous (feat. Lil Baby, Jay Critch & Rich the Kid)",79,230408,0.235,0.68,0.732,0.000174,10,0.0705,-7.108,0,0.27,75.422,4,0.864,Famous Dex,"Nervous (feat. Lil Baby, Jay Critch & Rich the Kid)",RapCaviar
+DrIP DrIp Drip (feat. Meek Mill),34,230439,0.162,0.71,0.814,0,10,0.16,-4.575,1,0.0561,155.02,4,0.714,Tory Lanez,DrIP DrIp Drip,RapCaviar
+Transformer (feat. Nicki Minaj),0,196333,0.00151,0.753,0.616,7.10E-06,2,0.291,-7.34,1,0.165,156.83,4,0.287,Future,Future & Juice WRLD Present... WRLD ON DRUGS,RapCaviar
+Nonstop,66,238613,0.0306,0.909,0.405,0.00698,6,0.105,-8.133,0,0.14,154.984,4,0.455,Drake,Scorpion,RapCaviar
+I Love It (& Lil Pump),99,127946,0.0114,0.901,0.522,0,2,0.259,-8.304,1,0.33,104.053,4,0.329,Kanye West,I Love It,RapCaviar
+WORKIN ME,86,169620,0.182,0.79,0.629,7.06E-06,8,0.338,-4.055,1,0.142,170.023,4,0.267,Quavo,W O R K I N M E,RapCaviar
+SaintLaurentYSL (feat. Lil Baby),0,168438,0.566,0.892,0.301,0,10,0.172,-11.21,1,0.74,127.964,4,0.305,Lil Yachty,Nuthin' 2 Prove,RapCaviar
+Moonlight,96,135090,0.556,0.921,0.537,0.00404,9,0.102,-5.723,0,0.0804,128.009,4,0.711,XXXTENTACION,?,RapCaviar
+GOKU,74,192880,0.228,0.665,0.89,0,1,0.122,-2.39,1,0.197,139.943,4,0.32,Jaden Smith,GOKU,RapCaviar
+Lean Wit Me,89,175755,0.0414,0.665,0.651,0,1,0.0896,-5.515,1,0.156,163.935,4,0.237,Juice WRLD,Goodbye & Good Riddance,RapCaviar
+Don't Cry (feat. XXXTENTACION),90,249450,0.409,0.585,0.709,0,8,0.183,-6.072,1,0.319,111.913,4,0.21,Lil Wayne,Tha Carter V,RapCaviar
+Hopeless Romantic (feat. Swae Lee),76,225483,0.299,0.874,0.492,0,9,0.0983,-7.399,0,0.0604,127.067,4,0.587,Wiz Khalifa,Hopeless Romantic (feat. Swae Lee),RapCaviar
+Yoppa (with BlocBoy JB),73,163404,0.125,0.814,0.495,0,9,0.11,-7.405,0,0.0772,140.885,4,0.347,Lil Mosey,Yoppa (with BlocBoy JB),RapCaviar
+STARGAZING,91,270714,0.00947,0.487,0.789,4.05E-06,8,0.189,-3.69,1,0.044,150.007,4,0.0564,Travis Scott,ASTROWORLD,RapCaviar
+"If I'm Lyin, I'm Flyin",83,130929,0.1,0.715,0.617,3.62E-06,11,0.186,-5.558,0,0.242,176.108,4,0.289,Kodak Black,"If I'm Lyin, I'm Flyin",RapCaviar
+Shake It Up,84,116680,0.128,0.776,0.608,0,10,0.0932,-6.478,0,0.104,156.025,4,0.402,Trippie Redd,LIFE'S A TRIP,RapCaviar
+Mob Ties,61,205146,0.0443,0.755,0.575,0.00127,4,0.276,-8.392,0,0.0673,85.994,4,0.493,Drake,Scorpion,RapCaviar
+Ned Flanders (feat. A$AP Ferg),83,161013,0.0254,0.936,0.495,0,1,0.087,-6.062,1,0.229,139.951,4,0.299,MadeinTYO,Ned Flanders (feat. A$AP Ferg),RapCaviar
+The Flute Song,80,147600,0.212,0.789,0.524,0,1,0.221,-7.942,0,0.273,138.064,4,0.343,Russ,The Flute Song,RapCaviar
+Multi Millionaire (feat. Lil Uzi Vert),81,170958,0.0263,0.854,0.817,0,1,0.169,-3.833,1,0.101,145.976,4,0.704,Lil Pump,Multi Millionaire (feat. Lil Uzi Vert),RapCaviar
+Let It Fly (feat. Travis Scott),88,186872,0.0414,0.902,0.819,0,1,0.106,-3.321,1,0.317,89,4,0.746,Lil Wayne,Tha Carter V,RapCaviar
+Dip,82,127200,0.0152,0.877,0.562,0,9,0.0933,-7.096,1,0.26,99.977,4,0.376,Tyga,Dip,RapCaviar
+Lucky You (feat. Joyner Lucas),96,244679,0.0627,0.876,0.786,0,10,0.127,-4.884,0,0.306,153.068,4,0.575,Eminem,Kamikaze,RapCaviar
+151 Rum,77,156695,0.199,0.73,0.86,0.00182,7,0.322,-3.532,1,0.191,129.952,4,0.647,J.I.D,151 Rum,RapCaviar
+Self Care,87,345133,0.367,0.52,0.538,0.00187,1,0.119,-8.109,1,0.206,141.894,4,0.177,Mac Miller,Swimming,RapCaviar
+Taking A Walk,80,121680,0.68,0.767,0.538,0,0,0.192,-6.044,0,0.052,81.031,4,0.343,Trippie Redd,Taking A Walk,RapCaviar
+Murder On My Mind,80,268434,0.145,0.759,0.73,3.06E-06,0,0.11,-7.985,0,0.0516,115.007,4,0.74,YNW Melly,I AM YOU,RapCaviar
+Chanel (Go Get It) [feat. Gunna & Lil Baby],84,201706,0.00183,0.938,0.5,0,4,0.077,-10.08,0,0.144,140.011,4,0.462,Young Thug,Slime Language,RapCaviar
+Nephew (feat. Lil Pump),84,202962,0.00422,0.792,0.454,0,9,0.285,-6.753,1,0.458,161.993,4,0.674,Smokepurpp,Nephew (feat. Lil Pump),RapCaviar
+Neighbor (feat. Travis Scott),79,162886,0.00908,0.921,0.748,0,1,0.0798,-5.093,1,0.13,139.979,4,0.801,Juicy J,Neighbor (feat. Travis Scott),RapCaviar
