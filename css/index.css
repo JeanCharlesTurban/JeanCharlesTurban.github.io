@@ -1,73 +1,8 @@
-html {width: 100%;height: 100%;overflow-x: hidden;}
-body {height: 100%;width: 90%;margin-left: 5%;margin-right: 5%;}
 
-.title {font-family: 'Roboto Mono', monospace;color: #1c1c1c; font-weight: 900;}
-.title2 {font-family: 'ZCOOL QingKe HuangYou', cursive;font-weight: 900;}
 
-r {color: crimson;}
-bl {color: deepskyblue;}
-y {color: yellow;}
-gr {color: limegreen;}
-pu {color: #f160ff;}
-or {color:orange;}
-.white{color: white;}
-.black{color: #1c1c1c;}
+.roboto {font-family: 'Roboto Mono', monospace;}
 
-.exprience {border-left: solid black 4px;width: 100%;padding-left: 20px;
-  margin-bottom: 0px;margin-top: 0px;padding-right: 20px;font-size: .9em;}
 
-h2 {font-size: 1.5em;}
-h3 {font-size: 1.3em;}
-h4 {font-size: 1em;margin-bottom: 3px;}
-h5 {font-size: .9em;margin-top: 5px;}
-h6 {font-size: .7em;}
+body {background-color: #1c1c1c;}
 
-h3 img{margin: 0px;}
-.holder{float: left;width: 50%;}
-
-.fl {width: 100px;position: fixed;
-    transform: translate(80vw,5vh);height: 50px;
-    background-color: crimson;border-radius: 50px;
-    color: white;font-weight: 900;
-    font-family: 'Roboto Mono', monospace;
-    padding: 13px;}
-.fl a:hover {color: #1c1c1c;}
-a:link {text-decoration: none;}a:visited {text-decoration: none;}a:hover {text-decoration: none;}a:active {text-decoration: none;}
-
-.stats {width: 100%;padding-top: 20px;float: left;margin-bottom: 10vh;}
-.pgrm {width: 33%;float: left;}
-.soft {width: 20%;float: left;}
-
-.html5{width: 80%;background-color: limegreen;height: 10px;border-radius: 50px;}
-.Python{width: 60%;background-color: deepskyblue;height: 10px;border-radius: 50px;}
-.Java{width: 40%;background-color: crimson;height: 10px;border-radius: 50px;}
-
-.pgrm h5 {margin: 0px;}
-
-.list {
-  list-style-type: lower-greek;
-  font-size: 1em;}
-
-.bio-holder {width: 100%;float: left;margin-bottom: 10vh;}
-.bio-holder h1 {margin-top: 5px;}
-.bio {width: 80%;box-shadow: 0 10px 20px rgba(0,0,0,0.25), 0 5px 5px rgba(0,0,0,0.22);
-  border-radius: 50px;background: #1c1c1c;}
-.bio .title2 {font-family: 'ZCOOL QingKe HuangYou', cursive;font-weight: 100;color: white;}
-.tab {width: 33%;float: left;margin-top: 10px;}
-.tab h3 {margin: 0px;}
-.bio-pic {border-radius: 900px;}
-.bio-text {padding: 10px;}
-
-@media (max-width: 500px) {
-  .holder{float: left;width: 100%;}
-  .pgrm {width:100%;float: left;}
-  .soft {width: 100%;float: left;}
-  .bio {height: 650px;}
-  .fl {transform: translate(70vw,15vh);}
-  h2 {font-size: 1.5em;}
-  h3 {font-size: 1.3em;}
-  h4 {font-size: 1em;margin-bottom: 3px;}
-  h5 {font-size: .9em;margin-top: 5px;}
-  h6 {font-size: .7em;}
-
-    }
+.center-banner {margin-top: 40vh;margin-bottom: 50vh;margin-left: 40vw;margin-right: 40vw;text-align: center;color: white;}
