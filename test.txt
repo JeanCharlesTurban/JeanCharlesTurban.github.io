@@ -1,0 +1,42 @@
+# General Reminders
+[ ] Flag LL Invoice Analysis to Peter                                          ^^^
+[ ] Luke Ch 1,2,3                                                              ^^
+[ ] Follow up with Dulang about converstaion about fractional CTO              ^^
+[ ] Book times with Brian (VA)                                                 ^^
+[ ] Write blurb about campus visit for kickoff                                 ^^
+[ ] Show updated metrics                                                       ^^
+[ ] Request Slack Invoice for August                                           ^
+[ ] Send Developer Feedback Surveys August                                     ^
+# LCL
+[x] Provide update to Caroline about Big Red Hacks Sponsorship                 ^^^
+[x] Figure out procedure and tech tool for emails at kickoff                   ^^^
+[ ] Key Decision: Make startup hours under LCL banner?                         ^
+[ ] Send photo of donor wall of eHub                                           
+[ ] Peter we need a write up about your story                                  
+[ ] Updated estimate of number of resources value amount                       
+[ ] Little more detail about the BXCF partnership, especially with kickoff     
+[ ] Send Boaz old articles of popshop                                          
+[ ] See if we can honestly give over 100K+ funding amount                      
+[ ] Poke around on the internet and take a look at the profiles                
+# Personal Work
+[ ] Follow up with Twilio about approval via CSV                               ^^^
+[ ] Meet with Basil to work on MongoDB Export                                  ^^^
+[x] Finish Data Cleaning Pipeline                                              ^^
+[ ] Investigate doing the Supabase Project in Python?                          ^
+[ ] Starting connecting Douglas screens view action flow                       ^
+# Random
+[x] Clear jt665 Cornell eMail                                                  
+[x] MongoDB Export Research                                                    
+[ ] Brainstorm - what it would take to fill out THS as founder                 
+[ ] Create streamlit account and deploy server                                 
+[ ] Open AI Account - Created temp one, will forward bills                     
+[ ] Brief Project Update for Basil Monday EOD (new hours)                      
+[x] Answer Basil Email Quickly                                                 
+# TALENTPATH
+[ ] Draft new document for Fractional CTO as a service                         ^^^
+[ ] Make Final Decision for Ruslan Negotiation                                 ^^^
+[ ] StartupTree Case Study Draft High Level                                    ^^^
+[ ] Create ready to go draft nSpire                                            ^^
+[ ] Add approved draft to template agreement                                   ^^
+[ ] Finish formatting Tourable contract + send to client                       ^
+[ ] Matrix chart for monthly invoice                                           ^

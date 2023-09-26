@@ -1,0 +1,40 @@
+# Agro Accounting
+[ ] Finish Data Cleaning Pipeline                                         ^^
+[ ] Investigate doing the Supabase Project in Python?                     ^
+[ ] Starting connecting Douglas screens view action flow                  ^
+[ ] Need Open AI Account Under Agro Ownership                             
+[ ] Forward 10$ charge for current open AI account                        
+[ ] Create streamlit account and deploy to server                         
+# Bible Study
+[ ] Provide update to Caroline about Big Red Hacks Sponsorship            ^^^
+[ ] Luke Ch 1,2,3                                                         ^^
+[ ] Key Decision: Make startup hours under LCL banner?                    ^
+[ ] Updated estimate of number of resources value amount                  
+[ ] Peter we need a write up about your story                             
+[ ] BXCF Partnership write up explanation                                 
+[ ] Send photo of donor wall of eHub                                      
+[ ] Send Boaz old articles of popshop                                     
+[ ] Upload pictures of visit to drive and share with Megan, Felix etc     
+[ ] Calculate lifetime total funds awarded to cohorts                     
+[ ]                                                                       
+[ ] Read donor prospect write ups and do brief research                   
+# Follow Ups & Networking
+[ ] Follow up with Dulang about converstaion about fractional CTO         ^^
+[ ] Get nSpire intern access to ehub                                      
+[ ] Follow up with nSpire                                                 
+[ ] Follow up with Felix to meet up in NYC next week Sept 10th            
+[ ] Follow up John Callister about LCL events w/Caroline                  
+[ ] Follow up CTL Contact                                                 
+[ ] Follow up 3 LinkedIn Connects                                         
+# Talentpath
+[ ] StartupTree Case Study Draft High Level                               ^^^
+[ ] Show updated financial metrics                                        ^^
+[ ] Create ready to go draft nSpire                                       ^^
+[x] Add approved draft to template agreement                              ^^
+[ ] Request Slack Invoice for August                                      ^
+[ ] Finish formatting Tourable contract + send to client                  ^
+[ ] Set End of Month Goal for Jack (format slides)                        
+[ ] Figure out how to provide value via THS for founders                  
+[x] Draft new document for Fractional CTO as a service                    
+[x] Send Developer Feedback Surveys August                                
+[x] Clear Talentpath Email + Respond                                      
